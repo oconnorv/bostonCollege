@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:etdms="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.ndltd.org/standards/metadata/etdms/1-0/ http://www.ndltd.org/standards/metadata/etdms/1-0/etdms.xsd">
+  <mods:titleInfo usage="primary">
+    <mods:title>Expansion of the Middle Class, Consumer Credit Markets and Volatility in Emerging Countries</mods:title>
+    <mods:nonSort></mods:nonSort>
+    <mods:subTitle></mods:subTitle>
+  </mods:titleInfo>
+  <mods:name type="personal" usage="primary">
+    <mods:namePart type="family">Barrail Halley</mods:namePart>
+    <mods:namePart type="given">Zulma</mods:namePart>
+    <mods:displayForm>Barrail Halley, Zulma</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+    </mods:role>
+    <mods:nameIdentifier type="orcid">0000-0001-9007-3139</mods:nameIdentifier>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart type="family">Ireland</mods:namePart>
+    <mods:namePart type="given">Peter</mods:namePart>
+    <mods:displayForm>Ireland, Peter</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Thesis advisor</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="code">ths</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="ndltd" type="work type">Electronic Thesis or Dissertation</mods:genre>
+  <mods:genre authority="dct" type="work type">Text</mods:genre>
+  <mods:genre authority="marcgt" type="work type" usage="primary">thesis</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Boston College</mods:publisher>
+    <mods:dateIssued>2017</mods:dateIssued>
+    <mods:dateIssued encoding="w3cdtf" keyDate="yes">2017</mods:dateIssued>
+    <mods:issuance>monographic</mods:issuance>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+  </mods:language>
+  <mods:physicalDescription>
+    <mods:form authority="marcform">electronic</mods:form>
+    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+  </mods:physicalDescription>
+  <mods:abstract>The literature on real business cycles finds that one reason why emerging economies are more volatile than developed small open economies is that they face greater financial frictions. Indeed, according to several measures of financial depth and access, financial systems in emerging countries are on average less developed than those in developed small open economies. Despite the lag in financial development, private credit, particularly unsecured credit to households, has been steadily increasing during the last two decades in emerging countries in Latin America. During this period of rising credit, various countries in the region observed an increase in the size of their middle income class population and the emergence of the vendor financing channel in their consumption credit market. Estimates by the World Bank suggest that the share of middle class households increased from 20.9 % in 1995 to 40.7 % in 2010. In addition, the share of poor households was approximately halved and reached 23.4 % at the end of this 15 year period. This phenomenon not only increased credit demand but also motivated the entry of new suppliers in the consumer credit market in countries like Mexico, Colombia, Chile and Brazil. In spite of a significant decline in unemployment in recent years, the lack of formal employment and poor credit history were still impeding many individuals from gaining access to consumer finance from traditional financial institutions. In order to enable new middle class shoppers access items typically offered by large retail stores, the retailers themselves started offering credit. In this dissertation, I study the relationship between middle class size, unsecured credit markets and aggregate consumption volatility in emerging countries. In the first chapter of this thesis, we examine the link between middle class size and consumption growth volatility using a sample of middle income countries. In the second chapter, we study the effect of an expansion of the middle class on vendor financing incentives and unsecured credit supply on its extensive margin. In the third chapter, I study business cycle implications of a reduction in the share of financially excluded households in an emerging economy. In the first chapter, I empirically examine the effect of middle income class size on consumption growth volatility in emerging countries. Using a panel data of middle income countries, I find that a larger middle class size tends to increase aggregate consumption growth volatility, particularly at lower levels of financial system depth. Financial development plays a significant role in determining the sign of the marginal effect of middle class size on aggregate volatility. Unlike emerging countries, the effect of the size of the middle class and the role of financial development on consumption volatility in developed countries is ambiguous. The key message of this analysis is that as more households escape poverty thresholds and reach the middle income class status in developing and emerging economies, it becomes more important to deepen financial systems from the perspective of aggregate consumption volatility. In the second chapter, I explore through the lens of a theoretical model, potential reasons triggering an increase in credit supplied by the non traditional financial sector, i.e vendors, at the extensive margin. I find that a reduction in the average risk of default and an increase in the market size of credit customers raise vendor financing incentives. This model rationalizes the observation that the improvement of economic conditions of the low-income and financially constrained households potentially led to increased credit supply by vendors in several countries of Latin America. In the third chapter, I study business cycle implications of a decline in household financial exclusion in a dynamic general equilibrium model suitable for emerging economies. Using Mexico as a case study, I estimate the model with Bayesian methods for the period 1995 to 2014. Standard measures of predictive accuracy suggest that the extended business cycle model with limited credit market participation outperforms a model with zero financial exclusion. The results of the estimation suggest that a rise in credit market participation in an emerging economy increases aggregate volatility of key macroeconomic aggregates, and that financial frictions play a key role in this relationship. I confirm this prediction by re-estimating the model for Mexico after splitting the sample into two non- overlapping decades. A key implication derived in this chapter is that a reduction of financial exclusion within an emerging country may lead to higher consumption growth volatility and trade balance volatility, and that fewer financial frictions dampen the marginal effect. As household financial access increases in these countries, a greater need for improving broad financial development measures arises.</mods:abstract>
+  <mods:subject>
+    <mods:topic>Business cycles</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Emerging markets</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Latin America</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Small open economies</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Unsecured credit market</mods:topic>
+  </mods:subject>
+  <mods:accessCondition type="use and reproduction">Copyright is held by the author, with all rights reserved, unless otherwise noted.</mods:accessCondition>
+  <mods:extension>
+    <etdms:degree>
+      <etdms:name>PhD</etdms:name>
+      <etdms:level>Doctoral</etdms:level>
+      <etdms:discipline>Economics</etdms:discipline>
+      <etdms:grantor>Boston College. Graduate School of Arts and Sciences</etdms:grantor>
+    </etdms:degree>
+  </mods:extension>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MChB</mods:recordContentSource>
+    <mods:recordOrigin>Most grad thesis records are created by transforming ProQuest supplied xml and editing as needed.</mods:recordOrigin>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+      <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+  <mods:identifier type="hdl">http://hdl.handle.net/2345/bc-ir:107373</mods:identifier>
+</mods:mods>

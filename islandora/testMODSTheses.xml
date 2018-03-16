@@ -1,0 +1,95 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:etdms="http://www.ndltd.org/standards/metadata/etdms/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.ndltd.org/standards/metadata/etdms/1-0/ http://www.ndltd.org/standards/metadata/etdms/1-0/etdms.xsd">
+  <mods:titleInfo usage="primary">
+    <mods:nonSort>A </mods:nonSort>
+    <mods:title>Boron Alkylidene-Alkene Cycloaddition Reaction</mods:title>
+    <mods:subTitle>Application to the Synthesis of Aphanamal</mods:subTitle>
+  </mods:titleInfo>
+  <mods:name type="personal" usage="primary">
+    <mods:namePart type="family">Deaton</mods:namePart>
+    <mods:namePart type="given">Timothy Maxwell</mods:namePart>
+    <mods:displayForm>Deaton, Timothy Maxwell</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+    </mods:role>
+    <mods:nameIdentifier type="orcid">0000-0003-2533-8545</mods:nameIdentifier>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart type="family">McAuthor</mods:namePart>
+    <mods:namePart type="given">Second</mods:namePart>
+    <mods:displayForm>McAuthor, Second</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart type="family">Morken</mods:namePart>
+    <mods:namePart type="given">James P.</mods:namePart>
+    <mods:displayForm>Morken, James P.</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Thesis advisor</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="code">ths</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart type="family">McAdvisor</mods:namePart>
+    <mods:namePart type="given">Secondy</mods:namePart>
+    <mods:displayForm>McAdvisor, Secondy</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Thesis advisor</mods:roleTerm>
+      <mods:roleTerm authority="marcrelator" type="code">ths</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="ndltd" type="work type">Electronic Thesis or Dissertation</mods:genre>
+  <mods:genre authority="dct" type="work type">Text</mods:genre>
+  <mods:genre authority="marcgt" type="work type" usage="primary">thesis</mods:genre>
+  <mods:originInfo>
+    <mods:publisher>Boston College</mods:publisher>
+    <mods:dateIssued>2017</mods:dateIssued>
+    <mods:dateIssued encoding="w3cdtf" keyDate="yes">2017</mods:dateIssued>
+    <mods:issuance>monographic</mods:issuance>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+  </mods:language>
+  <mods:physicalDescription>
+    <mods:form authority="marcform">electronic</mods:form>
+    <mods:internetMediaType>application/pdf</mods:internetMediaType>
+    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+  </mods:physicalDescription>
+  <mods:abstract>Described herein is the exploration of a novel methodology whereby boronate-ester bearing cyclopentanes are produced by reaction between an unactivated olefin and what is described as a boron alkylidene. The mechanism is evaluated and concluded to proceed through a boracyclic intermediate that is achieved by a closed-shell, carbanion addition to the olefin. This mechanistic conclusion is arrived upon by considering two likely alternative routes (an open-shell, radical cyclization and a [2+2] concerted process) and providing evidence to refute them. A reaction scope is established as well as the utility of the methodology through the racemic synthesis of a natural sesquiterpene: aphanamal. Finally, the future of the reaction development will be considered by providing a single example of a 6-endo cyclization.</mods:abstract>
+  <mods:subject>
+    <mods:topic>Boron</mods:topic>
+    <mods:topic>seconds topic</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Cyclopentane</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Methodology</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Synthesis</mods:topic>
+  </mods:subject>
+  <mods:accessCondition type="use and reproduction">Copyright is held by the author, with all rights reserved, unless otherwise noted.</mods:accessCondition>
+  <mods:extension>
+    <etdms:degree>
+      <etdms:name>MS</etdms:name>
+      <etdms:level>Masters</etdms:level>
+      <etdms:discipline>Chemistry</etdms:discipline>
+      <etdms:grantor>Boston College. Graduate School of Arts and Sciences</etdms:grantor>
+    </etdms:degree>
+  </mods:extension>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MChB</mods:recordContentSource>
+    <mods:recordOrigin>Most grad thesis records are created by transforming ProQuest supplied xml and editing as needed.</mods:recordOrigin>
+    <mods:languageOfCataloging>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+      <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+  <mods:identifier type="hdl">http://hdl.handle.net/2345/bc-ir:107597</mods:identifier>
+</mods:mods>

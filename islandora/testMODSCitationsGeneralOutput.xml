@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:srw_dc="info:srw/schema/1/dc-schema"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:etdms="http://www.ndltd.org/standards/metadata/etdms/1.0/"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+    <dc:title>Cisco Systems and telework</dc:title>
+    <dc:creator>Giglio, Ken</dc:creator>
+    <dc:contributor>McSecondAuth, Secondy</dc:contributor>
+    <dc:contributor>ThirdyDisplay</dc:contributor>
+    <dc:description>Associated name: Sloan Work and Family Research Network Display</dc:description>
+    <dc:type>Text</dc:type>
+    <dc:type>case study</dc:type>
+    <dc:date>2005</dc:date>
+    <dc:date>2006-2007</dc:date>
+    <dc:date>2009-2010</dc:date>
+    <dc:publisher>[Sloan Work and Family Research Network]</dc:publisher>
+    <dc:coverage>Chestnut Hill, MA</dc:coverage>
+    <dc:type>monographic</dc:type>
+    <dc:language>English</dc:language>
+    <dc:format>2 p.</dc:format>
+    <dc:format>electronic</dc:format>
+    <dc:format>application/pdf</dc:format>
+    <dc:relation>Workplace Flexibility Case Study</dc:relation>
+    <dc:rights>Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution-Noncommercial-No Derivative Works 3.0 United States" (http://creativecommons.org/licenses/by-nc-nd/3.0/us/)</dc:rights>
+    <dc:subject>ML1711 .H34 2011</dc:subject>
+    <dc:identifier>http://hdl.handle.net/2345/4375</dc:identifier>
+</oai_dc:dc>

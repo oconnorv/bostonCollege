@@ -1,0 +1,49 @@
+<h1>Description</h1>
+This script fetches all of the "works" (papers, books, etc.) from the public profile of a given ORCID. It iterates over alist of ORCID IDs in a text file. It returns in a JSON file that is one big JSON array with each ORCID works record being an object in the array.
+<br />
+For errors or troubleshooting, contact John O'Connor at Boston College Libraries.
+
+<h2>Requirements:</h2>
+<ol>
+	<li><a href="https://www.python.org/" target="_blank">Python 3.x.x</a></li>
+		<ul>
+			<li>Mac/OSX users already have this installed on their computers. Skip Step 1 below.</li>
+			<li>Windows users can install it using the instructions below</li>
+		</ul>
+	<li><a href="http://docs.python-requests.org/en/master/" target="_blank">Requests library for Python</a></li>
+		<ul>
+			<li>All users must install this library using the instructions below</li>
+		</ul>
+</ol>
+
+<h3>To install requirements:</h3>
+<ol>
+	<li>Download and install the latest version of Python (3.6.4 as of 2018-03-15)</li>
+	<ol>
+		<li>Download file: <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe" target="_blank">https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe</a></li>
+		<li>Double click .exe file</li>
+		<li>Check the "Add Python 3.6 to PATH" option at the bottom of the window</li>
+		<li>Click "Install now"</li>
+		<li>Wait for it to finish installing and close window</li>
+	</ol>
+	<li>Open a PowerShell window by searching for "powershell" in the windows search bar or pressing Alt+Shift, right clicking, and choosing  "Open Powershell window here"</li>
+	<li>Type "pip install requests" (without the quotes)</li>
+	<li>Wait for it to finish installing and close window</li>
+</ol>
+
+<h2>To use this script:</h2>
+<ol>
+	<li>Ensure that all required software (above) is installed</li>
+	<li>Download FacultyWorks.py and orcids.txt into a new folder</li>
+	<li>Open orcids.txt in a text editor and paste each ORCID ID into that file</li>
+	<ul>
+		<li>One ORCID per line</li>
+		<li>Delete the instructions line at the top of the file</li>
+	</ul>
+	<li>Open the folder that contains FacultyWorks.py and orcids.txt</li>
+	<li>Open a PowerShell window by pressing Alt+Shift, right clicking in the folder, and choosing  "Open Powershell window here"</li>
+	<li>Type "python FacultyWorks.py" (without the quotes)</li>
+	<li>Wait for the success message at the end to print</li>
+	<li>Check that the folder now contains a new file called worksOutput.json</li>
+	<li>Close Powershell window</li>
+</ol>

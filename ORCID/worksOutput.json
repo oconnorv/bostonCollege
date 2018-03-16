@@ -1,0 +1,1344 @@
+[{
+  "last-modified-date" : {
+    "value" : 1479304888640
+  },
+  "group" : [ {
+    "last-modified-date" : {
+      "value" : 1479304888640
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "other-id",
+        "external-id-value" : "uuid:f46e89a2-2654-4ea3-af55-5746bd50f01d",
+        "external-id-url" : {
+          "value" : "https://cdr.lib.unc.edu/indexablecontent/uuid:f46e89a2-2654-4ea3-af55-5746bd50f01d"
+        },
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 28180942,
+      "created-date" : {
+        "value" : 1479304888640
+      },
+      "last-modified-date" : {
+        "value" : 1479304888640
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0002-0150-2083",
+          "path" : "0000-0002-0150-2083",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "John O'Connor"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Towards a Profile of Open Government Data Users"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "other-id",
+          "external-id-value" : "uuid:f46e89a2-2654-4ea3-af55-5746bd50f01d",
+          "external-id-url" : {
+            "value" : "https://cdr.lib.unc.edu/indexablecontent/uuid:f46e89a2-2654-4ea3-af55-5746bd50f01d"
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "SUPERVISED_STUDENT_PUBLICATION",
+      "publication-date" : {
+        "year" : {
+          "value" : "2015"
+        },
+        "month" : {
+          "value" : "04"
+        },
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0002-0150-2083/work/28180942",
+      "display-index" : "1"
+    } ]
+  } ],
+  "path" : "/0000-0002-0150-2083/works"
+},
+{
+  "last-modified-date" : {
+    "value" : 1519672365960
+  },
+  "group" : [ {
+    "last-modified-date" : {
+      "value" : 1519672365960
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 33170900,
+      "created-date" : {
+        "value" : 1495739565958
+      },
+      "last-modified-date" : {
+        "value" : 1519672365960
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-4659-2307",
+          "path" : "0000-0003-4659-2307",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Kimberly C. Kowal"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "The Map of Early Modern London [review]"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2016"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/33170900",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1495724012116
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.6084/M9.FIGSHARE.1295411",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 33170338,
+      "created-date" : {
+        "value" : 1495724012116
+      },
+      "last-modified-date" : {
+        "value" : 1495724012116
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0001-8099-6984",
+          "path" : "0000-0001-8099-6984",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "DataCite"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Crowdsourced geo-referenced image data (2014)"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.6084/M9.FIGSHARE.1295411",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "OTHER",
+      "publication-date" : {
+        "year" : {
+          "value" : "2015"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/33170338",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1489171370048
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-84872140141",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      }, {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1045/november2012-fleet",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939634,
+      "created-date" : {
+        "value" : 1488987149205
+      },
+      "last-modified-date" : {
+        "value" : 1489171370048
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Georeferencer: Crowdsourced georeferencing for map library collections"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1045/november2012-fleet",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-84872140141",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2012"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939634",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1495724303116
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1080/15420353.2012.700914",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      }, {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-84866599792",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939631,
+      "created-date" : {
+        "value" : 1488987149201
+      },
+      "last-modified-date" : {
+        "value" : 1495724303116
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Online georeferencing for libraries: The british library implementation of georeferencer for spatial metadata enhancement and public engagement"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1080/15420353.2012.700914",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-84866599792",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2012"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939631",
+      "display-index" : "3"
+    }, {
+      "put-code" : 31223112,
+      "created-date" : {
+        "value" : 1489004583002
+      },
+      "last-modified-date" : {
+        "value" : 1490041383003
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-4659-2307",
+          "path" : "0000-0003-4659-2307",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Kimberly C. Kowal"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Online georeferencing for libraries: The British Library implementation of georeferencer for spatial metadata enhancement and public engagement"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1080/15420353.2012.700914",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-84866599792",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2012"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/31223112",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1488987149204
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-84861864533",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      }, {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1080/03085694.2012.673765",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939633,
+      "created-date" : {
+        "value" : 1488987149204
+      },
+      "last-modified-date" : {
+        "value" : 1488987149204
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "The Pembroke Map: A Medieval Sketch"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1080/03085694.2012.673765",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-84861864533",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2012"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939633",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1495724791332
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 33170594,
+      "created-date" : {
+        "value" : 1495724791332
+      },
+      "last-modified-date" : {
+        "value" : 1495724791332
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-4659-2307",
+          "path" : "0000-0003-4659-2307",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Kimberly C. Kowal"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Rare map materials made digital: scanning and metadata to archiving and access"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2010"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/33170594",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1495724270494
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-65349104519",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939629,
+      "created-date" : {
+        "value" : 1488987149199
+      },
+      "last-modified-date" : {
+        "value" : 1495724270494
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Descriptive metadata for digitization of maps in books: a british library project"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-65349104519",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2009"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939629",
+      "display-index" : "2"
+    }, {
+      "put-code" : 31223129,
+      "created-date" : {
+        "value" : 1489004614724
+      },
+      "last-modified-date" : {
+        "value" : 1490041414733
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-4659-2307",
+          "path" : "0000-0003-4659-2307",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Kimberly C. Kowal"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Descriptive metadata for digitization of maps in books: a British Library project"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-65349104519",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2009"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/31223129",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1519245800037
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-77951852954",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      }, {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.18352/lq.7908",
+        "external-id-url" : {
+          "value" : "https://doi.org/10.18352/lq.7908"
+        },
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939661,
+      "created-date" : {
+        "value" : 1489005800034
+      },
+      "last-modified-date" : {
+        "value" : 1519245800037
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-4659-2307",
+          "path" : "0000-0003-4659-2307",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Kimberly C. Kowal"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "The British Library's vulnerable collection items project"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-77951852954",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.18352/lq.7908",
+          "external-id-url" : {
+            "value" : "https://doi.org/10.18352/lq.7908"
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2008"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939661",
+      "display-index" : "5"
+    }, {
+      "put-code" : 30939630,
+      "created-date" : {
+        "value" : 1488987149200
+      },
+      "last-modified-date" : {
+        "value" : 1495724316103
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "The british library's vulnerable collection items project"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-77951852954",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2008"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939630",
+      "display-index" : "4"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1519247340159
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 33170059,
+      "created-date" : {
+        "value" : 1495746540148
+      },
+      "last-modified-date" : {
+        "value" : 1519247340159
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-4659-2307",
+          "path" : "0000-0003-4659-2307",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Kimberly C. Kowal"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Roy Military Survey map of Scotland (1747--1755): mosaicing, geo-referencing, and web delivery"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2007"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/33170059",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1488987149207
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1179/000870405X77147",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      }, {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-29344453589",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939635,
+      "created-date" : {
+        "value" : 1488987149207
+      },
+      "last-modified-date" : {
+        "value" : 1488987149207
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Planning the migration to OS MasterMap in the UK legal deposit libraries"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1179/000870405X77147",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-29344453589",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2005"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939635",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1488987149203
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-1542364441",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      }, {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1016/j.lcats.2003.11.011",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939632,
+      "created-date" : {
+        "value" : 1488987149203
+      },
+      "last-modified-date" : {
+        "value" : 1488987149203
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "BiblioFemina: A panel discussion on women in publishing, bookselling, and libraries"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1016/j.lcats.2003.11.011",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        }, {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-1542364441",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2004"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939632",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1488987149197
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "eid",
+        "external-id-value" : "2-s2.0-0036744637",
+        "external-id-url" : null,
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 30939628,
+      "created-date" : {
+        "value" : 1488987149197
+      },
+      "last-modified-date" : {
+        "value" : 1488987149197
+      },
+      "source" : {
+        "source-orcid" : null,
+        "source-client-id" : {
+          "uri" : "https://orcid.org/client/0000-0002-5982-8983",
+          "path" : "0000-0002-5982-8983",
+          "host" : "orcid.org"
+        },
+        "source-name" : {
+          "value" : "Scopus - Elsevier"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Tapping the Web for GIS and mapping technologies: For all levels of libraries and users"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "eid",
+          "external-id-value" : "2-s2.0-0036744637",
+          "external-id-url" : null,
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2002"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-4659-2307/work/30939628",
+      "display-index" : "0"
+    } ]
+  } ],
+  "path" : "/0000-0003-4659-2307/works"
+},
+{
+  "last-modified-date" : {
+    "value" : 1504635850681
+  },
+  "group" : [ {
+    "last-modified-date" : {
+      "value" : 1502910971142
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "http://dx.doi.org/10.17613/M6QN3B",
+        "external-id-url" : {
+          "value" : "http://dx.doi.org/10.17613/M6QN3B"
+        },
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 36033625,
+      "created-date" : {
+        "value" : 1502910971142
+      },
+      "last-modified-date" : {
+        "value" : 1502910971142
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-3780-5577",
+          "path" : "0000-0003-3780-5577",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Sarah Melton"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "The ARL Digital Scholarship Institute"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "http://dx.doi.org/10.17613/M6QN3B",
+          "external-id-url" : {
+            "value" : "http://dx.doi.org/10.17613/M6QN3B"
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "CONFERENCE_POSTER",
+      "publication-date" : {
+        "year" : {
+          "value" : "2017"
+        },
+        "month" : {
+          "value" : "08"
+        },
+        "day" : {
+          "value" : "09"
+        },
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-3780-5577/work/36033625",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1504635850681
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "https://doi.org/10.6084/m9.figshare.3174703.v2",
+        "external-id-url" : {
+          "value" : "https://doi.org/10.6084/m9.figshare.3174703.v2"
+        },
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 36540929,
+      "created-date" : {
+        "value" : 1504635850681
+      },
+      "last-modified-date" : {
+        "value" : 1504635850681
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-3780-5577",
+          "path" : "0000-0003-3780-5577",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Sarah Melton"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "A Publishing Analytics Data Alliance"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "https://doi.org/10.6084/m9.figshare.3174703.v2",
+          "external-id-url" : {
+            "value" : "https://doi.org/10.6084/m9.figshare.3174703.v2"
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "CONFERENCE_POSTER",
+      "publication-date" : {
+        "year" : {
+          "value" : "2016"
+        },
+        "month" : {
+          "value" : "04"
+        },
+        "day" : {
+          "value" : "19"
+        },
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-3780-5577/work/36540929",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1503787678580
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1109/DigitalHeritage.2015.7419552",
+        "external-id-url" : {
+          "value" : "https://doi.org/10.1109/DigitalHeritage.2015.7419552"
+        },
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 36283939,
+      "created-date" : {
+        "value" : 1503787678580
+      },
+      "last-modified-date" : {
+        "value" : 1503787678580
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-3780-5577",
+          "path" : "0000-0003-3780-5577",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Sarah Melton"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Digital Atlanta: A collaborative approach to remapping Atlanta's past"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1109/DigitalHeritage.2015.7419552",
+          "external-id-url" : {
+            "value" : "https://doi.org/10.1109/DigitalHeritage.2015.7419552"
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2016"
+        },
+        "month" : {
+          "value" : "02"
+        },
+        "day" : {
+          "value" : "25"
+        },
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-3780-5577/work/36283939",
+      "display-index" : "1"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1502911018225
+    },
+    "external-ids" : {
+      "external-id" : [ {
+        "external-id-type" : "doi",
+        "external-id-value" : "10.1215/01636545-2402027 ",
+        "external-id-url" : {
+          "value" : ""
+        },
+        "external-id-relationship" : "SELF"
+      } ]
+    },
+    "work-summary" : [ {
+      "put-code" : 14252394,
+      "created-date" : {
+        "value" : 1414776924928
+      },
+      "last-modified-date" : {
+        "value" : 1502911018225
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-3780-5577",
+          "path" : "0000-0003-3780-5577",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Sarah Melton"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "Toyi-Toying in Birmingham"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "doi",
+          "external-id-value" : "10.1215/01636545-2402027 ",
+          "external-id-url" : {
+            "value" : ""
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2014"
+        },
+        "month" : {
+          "value" : "06"
+        },
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-3780-5577/work/14252394",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1437665654390
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 14252389,
+      "created-date" : {
+        "value" : 1414776754314
+      },
+      "last-modified-date" : {
+        "value" : 1437665654390
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-3780-5577",
+          "path" : "0000-0003-3780-5577",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Sarah Melton"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "The Future of Higher Education and Building Hybrid CareersThe Future of Higher Education and Building Hybrid Careers"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : {
+        "external-id" : [ {
+          "external-id-type" : "other-id",
+          "external-id-value" : null,
+          "external-id-url" : {
+            "value" : ""
+          },
+          "external-id-relationship" : "SELF"
+        } ]
+      },
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2014"
+        },
+        "month" : null,
+        "day" : null,
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-3780-5577/work/14252389",
+      "display-index" : "0"
+    } ]
+  }, {
+    "last-modified-date" : {
+      "value" : 1436376227166
+    },
+    "external-ids" : {
+      "external-id" : [ ]
+    },
+    "work-summary" : [ {
+      "put-code" : 11938612,
+      "created-date" : {
+        "value" : 1394127221055
+      },
+      "last-modified-date" : {
+        "value" : 1436376227166
+      },
+      "source" : {
+        "source-orcid" : {
+          "uri" : "https://orcid.org/0000-0003-3780-5577",
+          "path" : "0000-0003-3780-5577",
+          "host" : "orcid.org"
+        },
+        "source-client-id" : null,
+        "source-name" : {
+          "value" : "Sarah Melton"
+        }
+      },
+      "title" : {
+        "title" : {
+          "value" : "A Sleight of History"
+        },
+        "subtitle" : null,
+        "translated-title" : null
+      },
+      "external-ids" : null,
+      "type" : "JOURNAL_ARTICLE",
+      "publication-date" : {
+        "year" : {
+          "value" : "2009"
+        },
+        "month" : {
+          "value" : "10"
+        },
+        "day" : {
+          "value" : "15"
+        },
+        "media-type" : null
+      },
+      "visibility" : "PUBLIC",
+      "path" : "/0000-0003-3780-5577/work/11938612",
+      "display-index" : "0"
+    } ]
+  } ],
+  "path" : "/0000-0003-3780-5577/works"
+}]

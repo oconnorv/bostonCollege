@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <mods:titleInfo usage="primary">
+    <mods:title>Interview with Stuart Joel Hecht on Transposing Broadway: Jews, assimilation, and the American musical, by Stuart Joel Hecht</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="naf" usage="primary">
+    <mods:namePart type="family">Hecht</mods:namePart>
+    <mods:namePart type="given">Stuart Joel</mods:namePart>
+    <mods:namePart type="date">1955-</mods:namePart>
+    <mods:displayForm>Hecht, Stuart Joel, 1955-</mods:displayForm>
+    <mods:affiliation>Dept. of Theater, Boston College</mods:affiliation>
+    <mods:role>
+      <mods:roleTerm type="text" authority="marcrelator">Interviewee</mods:roleTerm>
+      <mods:roleTerm type="code" authority="marcrelator">ive</mods:roleTerm>
+    </mods:role>
+    <mods:description>hecht</mods:description>
+  </mods:name>
+  <mods:name type="personal" authority="naf">
+    <mods:namePart type="family">Rapple</mods:namePart>
+    <mods:namePart type="given">Brendan</mods:namePart>
+    <mods:namePart type="given">(Brendan Alphonso)</mods:namePart>
+    <mods:namePart type="date">1949-</mods:namePart>
+    <mods:displayForm>Rapple, Brendan Alphonso, 1949-</mods:displayForm>
+    <mods:affiliation>University Libraries, Boston College</mods:affiliation>
+    <mods:role>
+      <mods:roleTerm type="text" authority="marcrelator">Interviewer</mods:roleTerm>
+      <mods:roleTerm type="code" authority="marcrelator">ivr</mods:roleTerm>
+    </mods:role>
+    <mods:description>rappleb</mods:description>
+  </mods:name>
+  <mods:name type="corporate" authority="naf">
+    <mods:namePart>Boston College Libraries</mods:namePart>
+    <mods:displayForm>Boston College Libraries</mods:displayForm>
+    <mods:role>
+      <mods:roleTerm type="text" authority="marcrelator">Publisher</mods:roleTerm>
+      <mods:roleTerm type="code" authority="marcrelator">pbl</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:genre authority="marcgt" type="work type" usage="primary">interview</mods:genre>
+  <mods:originInfo>
+    <mods:place>
+      <mods:placeTerm type="code" authority="marccountry">mau</mods:placeTerm>
+      <mods:placeTerm type="text">Chestnut Hill, Mass.</mods:placeTerm>
+    </mods:place>
+    <mods:dateCreated>2012</mods:dateCreated>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes">2012</mods:dateCreated>
+    <mods:issuance>monographic</mods:issuance>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+  </mods:language>
+  <mods:physicalDescription>
+    <mods:form authority="marcform">electronic</mods:form>
+    <mods:internetMediaType>video/mp4</mods:internetMediaType>
+    <mods:extent>34 min., 39 sec.</mods:extent>
+    <mods:digitalOrigin>born digital</mods:digitalOrigin>
+  </mods:physicalDescription>
+  <mods:abstract>Over the last hundred years, musical theatre artists - from Berlin to Rodgers and Hammerstein to Sondheim - have developed a form that corresponds directly to the Americanization of the increasingly Jewish New York audience; and that audience's aspirations and concerns have played out in the shows themselves. Musicals thus became a paradigm which instructed newcomers in how to assimilate while correspondingly envisioning "American Dream" America as democratic and inclusive. Broadway musicals still continue to function today as "cultural Ellis Islands" for fringe populations seeking acceptance into the nation's mainstream - including women, blacks, Latinos, and gays - all essentially modeled upon the Jewish example. Stuart J. Hecht offers a fascinating examination of the relationship between Jews, assimilation, and the changing face of the American musical.</mods:abstract>
+  <mods:note>Title supplied by cataloger.</mods:note>
+  <mods:relatedItem type="references">
+    <mods:titleInfo usage="primary">
+      <mods:nonSort>aNonsort </mods:nonSort>
+      <mods:title>Transposing Broadway</mods:title>
+      <mods:subTitle>test subtitle</mods:subTitle>
+    </mods:titleInfo>
+    <mods:name type="personal" authority="naf" usage="primary">
+      <mods:namePart type="family">Hecht</mods:namePart>
+      <mods:namePart type="given">Stuart Joel</mods:namePart>
+      <mods:namePart type="date">1955-</mods:namePart>
+      <mods:displayForm>Hecht, Stuart Joel, 1955-</mods:displayForm>
+      <mods:affiliation>Dept. of Theatre, Boston College</mods:affiliation>
+      <mods:role>
+        <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+        <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+      </mods:role>
+      <mods:description>hecht</mods:description>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt" type="work type" usage="primary">book</mods:genre>
+    <mods:originInfo>
+      <mods:place>
+        <mods:placeTerm type="code" authority="marccountry">nyu</mods:placeTerm>
+        <mods:placeTerm type="text">New York</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>Palgrave Macmillan</mods:publisher>
+      <mods:dateIssued>2011</mods:dateIssued>
+      <mods:edition>1st ed.</mods:edition>
+      <mods:issuance>monographic</mods:issuance>
+    </mods:originInfo>
+    <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+      <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+      <mods:form authority="marcform">electronic</mods:form>
+      <mods:internetMediaType>application/pdf</mods:internetMediaType>
+      <mods:extent>240 p. ; 22 cm.</mods:extent>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:tableOfContents>Introduction: Broadway as a cultural Ellis Island -- Hello, young lovers: assimilation and dramatic configurations in the American musical -- The melting pot paradigm of Irving Berlin -- How to succeed -- Cinderellas -- Turns of the century: dreams of progress, dreams of loss -- Fiddler's children -- Lovable monsters: an epilogue.</mods:tableOfContents>
+    <mods:note type="statement of responsibility">Stuart J. Hecht.</mods:note>
+    <mods:note>Includes bibliographical references (p. [221]-226) and index.</mods:note>
+    <mods:subject>
+      <mods:geographicCode authority="marcgac">n-us---</mods:geographicCode>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Musicals</mods:topic>
+      <mods:geographic>United States</mods:geographic>
+      <mods:topic>History</mods:topic>
+      <mods:temporal>20th century</mods:temporal>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Jews</mods:topic>
+      <mods:topic>Cultural assimilation</mods:topic>
+      <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Jews</mods:topic>
+      <mods:geographic>United States</mods:geographic>
+      <mods:topic>Ethnic identity</mods:topic>
+    </mods:subject>
+    <mods:classification authority="lcc">ML1711 .H34 2011</mods:classification>
+    <mods:classification authority="ddc" edition="22">792.6089/924073</mods:classification>
+    <mods:classification>test</mods:classification>
+    <mods:relatedItem type="series">
+      <mods:titleInfo usage="primary">
+        <mods:title>Palgrave studies in theatre and performance history</mods:title>
+      </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:identifier type="isbn">9780230113275 (alk. paper)</mods:identifier>
+    <mods:identifier type="isbn">0230113273 (alk. paper)</mods:identifier>
+    <mods:identifier type="lccn">2011017726</mods:identifier>
+    <mods:recordInfo>
+      <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+      <mods:recordCreationDate encoding="marc">110426</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">20130725033953.0</mods:recordChangeDate>
+      <mods:recordIdentifier source="OCoLC">ocn719428019</mods:recordIdentifier>
+      <mods:languageOfCataloging>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+    </mods:recordInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="series">
+    <mods:titleInfo usage="primary">
+      <mods:title>Faculty publication highlights</mods:title>
+    </mods:titleInfo>
+    <mods:titleInfo usage="primary">
+      <mods:title>second series</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:accessCondition type="use and reproduction">Use of this resource is governed by the terms and conditions of the Creative Commons license "Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)." (http://creativecommons.org/licenses/by-nc/3.0/)</mods:accessCondition>
+  <mods:extension>
+    <ingestFile>fph20111128hecht.mp4</ingestFile>
+  </mods:extension>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MChB</mods:recordContentSource>
+    <mods:languageOfCataloging>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+      <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+<mods:location><mods:url>http://mlib.bc.edu/media/play/?vidfile=libraries/facpub/FPHHecht11.28.11_Md.mp4</mods:url></mods:location>
+<mods:identifier type="digitool">396632</mods:identifier><mods:identifier type="hdl">http://hdl.handle.net/2345/3171</mods:identifier>
+</mods:mods>

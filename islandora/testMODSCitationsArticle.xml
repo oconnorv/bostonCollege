@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+
+<mods:titleInfo usage="primary">
+	<mods:title>Air writing as a technique for the acquisition of Sino-Japanese characters by second-language learners</mods:title>
+</mods:titleInfo>
+
+<mods:name type="personal" usage="primary">
+	<mods:namePart type="family">Thomas</mods:namePart>
+	<mods:namePart type="given">Margaret</mods:namePart>
+	<mods:namePart type="given">(Margaret Ann)</mods:namePart>
+	<mods:namePart type="date">1952-</mods:namePart>
+	<mods:displayForm>Thomas, Margaret (Margaret Ann), 1952-</mods:displayForm>
+	<mods:affiliation>Dept. of Slavic &amp; Eastern Languages and Literatures, Boston College</mods:affiliation>
+	<mods:role>
+		<mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+		<mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+	</mods:role>
+	<mods:description>thomasm</mods:description>
+</mods:name>
+
+<mods:typeOfResource>text</mods:typeOfResource>
+
+<mods:genre authority="marcgt" type="work type" usage="primary">article</mods:genre>
+
+<mods:originInfo>
+	<mods:dateIssued>2015</mods:dateIssued>
+	<mods:dateIssued encoding="w3cdtf" keyDate="yes">2015</mods:dateIssued>
+	<mods:issuance>monographic</mods:issuance>
+</mods:originInfo>
+
+<mods:language>
+	<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+	<mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+</mods:language>
+
+<mods:physicalDescription>
+	<mods:form authority="marcform">electronic</mods:form>
+	<mods:internetMediaType>application/pdf</mods:internetMediaType>
+	<mods:digitalOrigin>born digital</mods:digitalOrigin>
+</mods:physicalDescription>
+
+<mods:note type="version identification">Post-print version of an article published in Language Learning 65(3): 631-659. doi:10.1111/lang.12128.</mods:note>
+
+	<mods:note>This is the peer reviewed version of the following article: Thomas, M. (2015), Air Writing as a Technique for the Acquisition of Sino-Japanese Characters by Second Language Learners. Language Learning, 65: 631-659. Final published version is available at: http://dx.doi.org/10.1111/lang.12128</mods:note>
+
+<mods:accessCondition type="use and reproduction">These materials are made available for use in research, teaching and private study, pursuant to U.S. Copyright Law. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials. Any materials used for academic research or otherwise should be fully credited with the source. The publisher or original authors may retain copyright to the materials.</mods:accessCondition>
+
+<mods:extension>
+	<ingestFile>AirWritingAndL2</ingestFile>
+</mods:extension>
+
+<mods:recordInfo>
+	<mods:recordContentSource>MChB</mods:recordContentSource>
+	<mods:languageOfCataloging>
+		<mods:languageTerm type="text">English</mods:languageTerm>
+		<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+	</mods:languageOfCataloging>
+</mods:recordInfo>
+
+<mods:identifier type="hdl">http://hdl.handle.net/2345/bc-ir:107502</mods:identifier></mods:mods>
