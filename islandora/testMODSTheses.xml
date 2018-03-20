@@ -74,6 +74,9 @@
   <mods:subject>
     <mods:topic>Synthesis</mods:topic>
   </mods:subject>
+  <mods:subject>
+    <mods:geographic>Chestnut Hill</mods:geographic>
+  </mods:subject>
   <mods:accessCondition type="use and reproduction">Copyright is held by the author, with all rights reserved, unless otherwise noted.</mods:accessCondition>
   <mods:extension>
     <etdms:degree>
