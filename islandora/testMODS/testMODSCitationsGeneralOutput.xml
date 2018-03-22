@@ -15,14 +15,17 @@
     <dc:date>2006-2007</dc:date>
     <dc:date>2009-2010</dc:date>
     <dc:publisher>[Sloan Work and Family Research Network]</dc:publisher>
-    <dc:coverage>Chestnut Hill, MA</dc:coverage>
     <dc:type>monographic</dc:type>
     <dc:language>English</dc:language>
     <dc:format>2 p.</dc:format>
     <dc:format>electronic</dc:format>
     <dc:format>application/pdf</dc:format>
     <dc:relation>Workplace Flexibility Case Study</dc:relation>
+    <dc:source>Source Book</dc:source>
+    <dc:relation>Another Book</dc:relation>
     <dc:rights>Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution-Noncommercial-No Derivative Works 3.0 United States" (http://creativecommons.org/licenses/by-nc-nd/3.0/us/)</dc:rights>
+    <dc:coverage>place</dc:coverage>
+    <dc:coverage>1999-2000</dc:coverage>
     <dc:subject>ML1711 .H34 2011</dc:subject>
     <dc:identifier>http://hdl.handle.net/2345/4375</dc:identifier>
 </oai_dc:dc>

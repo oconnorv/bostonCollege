@@ -88,6 +88,13 @@
             <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
         </mods:languageOfCataloging>
     </mods:recordInfo>
+    <mods:subject>
+        <mods:geographic>place</mods:geographic>
+    </mods:subject>
+    <mods:subject>
+        <mods:temporal>1999</mods:temporal>
+        <mods:temporal>2000</mods:temporal>
+    </mods:subject>
     <mods:classification authority="lcc">ML1711 .H34 2011</mods:classification>
     <mods:identifier type="digitool">85887</mods:identifier><mods:identifier type="hdl">http://hdl.handle.net/2345/4375</mods:identifier> <!-- DONE -->
 </mods:mods>

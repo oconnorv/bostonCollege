@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:titleInfo usage="primary">
+        <mods:title>Cisco Systems and telework</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal" usage="primary">
+        <mods:namePart type="family">Giglio</mods:namePart>
+        <mods:namePart type="given">Ken</mods:namePart>
+        <mods:displayForm>Giglio, Ken</mods:displayForm>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart type="family">McSecondAuth</mods:namePart>
+        <mods:namePart type="given">Secondy</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">Animator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">anm</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart type="family">McThirdAuth</mods:namePart>
+        <mods:namePart type="given">Thirdy</mods:namePart>
+        <mods:displayForm>ThirdyDisplay</mods:displayForm>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="corporate">
+        <mods:namePart>Sloan Work and Family Research Network</mods:namePart>
+        <mods:displayForm>Sloan Work and Family Research Network Display</mods:displayForm>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">Associated name</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">asn</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="local" type="work type" usage="primary">case study</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="text">Chestnut Hill, MA</mods:placeTerm>
+        </mods:place>
+        <mods:publisher>[Sloan Work and Family Research Network]</mods:publisher>
+        <mods:dateIssued>2005</mods:dateIssued>
+        <mods:dateIssued encoding="w3cdtf" keyDate="yes">2005</mods:dateIssued>
+        <mods:issuance>monographic</mods:issuance>
+    </mods:originInfo>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>application/pdf</mods:internetMediaType>
+        <mods:extent>2 p.</mods:extent>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:relatedItem type="series">
+        <mods:titleInfo usage="primary">
+            <mods:title>Workplace Flexibility Case Study</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:accessCondition type="use and reproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution-Noncommercial-No Derivative Works 3.0 United States" (http://creativecommons.org/licenses/by-nc-nd/3.0/us/)</mods:accessCondition>
+    <mods:extension>
+        <localCollectionName>wfrn</localCollectionName>
+        <ingestFile>wfn_casestudy_3.pdf</ingestFile>
+    </mods:extension>
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">MChB</mods:recordContentSource>
+        <mods:languageOfCataloging>
+            <mods:languageTerm type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+    <mods:identifier type="digitool">85887</mods:identifier><mods:identifier type="hdl">http://hdl.handle.net/2345/4375</mods:identifier>
+</mods:mods>

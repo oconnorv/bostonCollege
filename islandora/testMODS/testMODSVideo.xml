@@ -161,6 +161,18 @@
       <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
     </mods:languageOfCataloging>
   </mods:recordInfo>
-<mods:location><mods:url>http://mlib.bc.edu/media/play/?vidfile=libraries/facpub/FPHHecht11.28.11_Md.mp4</mods:url></mods:location>
-<mods:identifier type="digitool">396632</mods:identifier><mods:identifier type="hdl">http://hdl.handle.net/2345/3171</mods:identifier>
+  <mods:subject authority="lcsh">
+    <mods:topic>Musicals</mods:topic>
+    <mods:geographic>United States</mods:geographic>
+    <mods:topic>History</mods:topic>
+    <mods:temporal>20th century</mods:temporal>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Musicals</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>United States</mods:geographic>
+  </mods:subject>
+  <mods:location><mods:url>http://mlib.bc.edu/media/play/?vidfile=libraries/facpub/FPHHecht11.28.11_Md.mp4</mods:url></mods:location>
+  <mods:identifier type="digitool">396632</mods:identifier><mods:identifier type="hdl">http://hdl.handle.net/2345/3171</mods:identifier>
 </mods:mods>
