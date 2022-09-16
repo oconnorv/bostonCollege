@@ -1,0 +1,914 @@
+Count of digital entities: 5620
+
+Count of typeOfResource elements: 5620
+Count of first typeOfResource elements: 5620
+Count of second typeOfResource elements: 0
+Count of typeOfResource elements with @collection: 2
+Count of typeOfResource elements with @manuscript: 3485
+Count of typeOfResource elements with @usage: 0
+
+mixed material:	12
+Count of Collection attributes:  0
+Count of manuscript attributes:  12
+Count of usage attributes:  0
+
+notated music:	2
+Count of Collection attributes:  0
+Count of manuscript attributes:  1
+Count of usage attributes:  0
+
+sound recording-nonmusical:	1
+Count of Collection attributes:  0
+Count of manuscript attributes:  0
+Count of usage attributes:  0
+
+still image:	2987
+Count of Collection attributes:  0
+Count of manuscript attributes:  874
+Count of usage attributes:  0
+
+text:	2617
+Count of Collection attributes:  2
+Count of manuscript attributes:  2597
+Count of usage attributes:  0
+
+three dimensional object:	1
+Count of Collection attributes:  0
+Count of manuscript attributes:  1
+Count of usage attributes:  0
+
+Still images with a manuscript attribute
+417505	Williams, Gary - Basketball	BC1986019	
+439035	Donovan, Charles F. and Paul Fitzgerald	BC2000005	
+439043	Murphy, John F. X. and John King, on roof of Saint Mary's Hall	BC2000005	
+439044	Unidentified Executive Chef	BC2000005	
+439053	Donovan, Charles F. and John C. Sullivan	BC2000005	
+439059	Ring, James W., on roof of Saint Mary's Hall	BC2000005	
+439060	Monan, J. Donald and Thomas O'Malley	BC2000005	
+439064	Dore, Francis J.	BC2000005	
+439077	Murphy, John F. X., on roof of Saint Mary's Hall	BC2000005	
+439083	Donovan, Charles F. at Association of Higher Education Executive Committee meeting	BC2000005	
+439087	Monan, J. Donald at reception with "greaser"	BC2000005	
+439088	Monan, J. Donald at NAICO meeting with Robert Dole	BC2000005	
+439097	Dullea, Maurice V. at his ordination	BC2000005	
+439103	Telecommunications: Jay Daley and Pat Tobin	BC2000005	
+439106	Wegman, Carol, Director of Student Programs and Resources	BC2000005	
+439115	Brown, Donald, Director of the Minority Student program	BC2000005	
+439121	Kalonst-Donovan, Guy, Librarian	BC2000005	
+439127	Riley, Paul, Librarian	BC2000005	
+439133	Grounds crew	BC2000005	
+439139	Faculty retiring after 25 years with J. Donald Monan in front of Botolph House	BC2000005	
+439147	Dullea, Maurice V. at the 45th reunion of the class of 1917	BC2000005	
+439153	Monan, J. Donald at O'Neill Testimonial Dinner with Ronald Reagan	BC2000005	
+439159	Unidentified Boston College staff members	BC2000005	
+439173	Unidentified faculty members in Devlin Hall	BC2000005	
+439179	Monan, J. Donald at NAICO meeting with George Bush	BC2000005	
+439185	Monan, J. Donald sitting at desk	BC2000005	
+439188	Monan, J. Donald at NAICO meeting with Howard Baker	BC2000005	
+439190	Monan, J. Donald at O'Neill Testimonial Dinner with Ronald Reagan and Tip O'Neill	BC2000005	
+439201	Monan, J. Donald at NAICO meeting with Paul Simon	BC2000005	
+439205	Monan, J. Donald at NAICO luncheon with Tip O'Neill	BC2000005	
+439213	Landreth, Helen, Curator of the Irish Collection at Bapst Library	BC2000005	
+439223	Monan, J. Donald at O'Neill Testimonial Dinner with Ronald Reagan, Garrett Fitzgerald, and Tip O'Neill	BC2000005	
+439224	Monan, J. Donald at his 25th anniversary of priesthood with Margaret Dwyer	BC2000005	
+439225	Monan, J. Donald with camera taking picture	BC2000005	
+439228	Monan, J. Donald with "65 Is Still Alive" t-shirt	BC2000005	
+439234	Monan, J. Donald at O'Neill Testimonial Dinner with Ronald Reagan, Doug Flutie, and Silvio Conte	BC2000005	
+439257	Monan, J. Donald at O'Neill Testimonial Dinner with Bob Hope, Tip O'Neill, and Gerald Ford	BC2000005	
+439258	Monan, J. Donald, BC presidential search committee	BC2000005	
+439259	Monan, J. Donald at his 25th anniversary of priesthood with Charles F. Donovan, Fr. Albert, and Daniel Shine	BC2000005	
+439279	Monan, J. Donald performing with Boston Pops	BC2000005	
+439285	Monan, J. Donald at Harvard commencement receiving honorary degree with Mother Theresa, President Derek Bok, and Tennessee Williams	BC2000005	
+439289	Campanella, Frank B., Executive Vice President	BC2000005	
+439303	Fahey, Joseph R., Academic Vice President and Dean of Faculties	BC2000005	
+439314	Duffy, Joseph, University Secretary	BC2000005	
+439319	Monan, J. Donald with baseball coaches	BC2000005	
+439343	Monan, J. Donald at Harvard commencement receiving honorary degree with Charles Donovan and John Smith	BC2000005	
+439353	Monan, J. Donald at Harvard commencement receiving honorary degree with other honorary degree recipients, with President Derek Bok outside shot	BC2000005	
+439367	Monan, J. Donald at Harvard commencement receiving honorary degree with Mother Theresa and President Derek Bok	BC2000005	
+439393	Drinan, Robert F.	BC2000005	
+439435	Monan, J. Donald at Harvard commencement receiving honorary degree	BC2000005	
+439473	Dullea, Maurice V., Faculty Director of Athletics	BC2000005	
+439569	Gasson, Thomas Ignatius with Loyola students	BC2000005	
+439575	Joyce, W. Seavey, as Dean of the College of Business Administration	BC2000005	
+439581	Monan, J. Donald at Harvard commencement receiving honorary degree with Gertrude Cheeley	BC2000005	
+439587	FitzGerald, Paul A., George Bush, and J. Donald Monan at commencement	BC2000005	
+439593	Monan, J. Donald at Harvard commencement receiving honorary degree with Helen Smith and Peg Dwyer	BC2000005	
+439596	FitzGerald, Paul A. and Charles F. Donovan at Hopkins House	BC2000005	
+439607	Appleyard, Joseph, Jesuit Rector at BC	BC2000005	
+439613	Gannon, William F., twelfth president of Boston College	BC2000005	
+439619	Gallagher, Louis J. with Athletic Board	BC2000005	
+439625	Keleher, William L. with officials of the Bricklayers Benevolent and Protective Union	BC2000005	
+439631	Keleher, William L. and John H. Costello	BC2000005	
+439637	Keleher, William L., Paul A. Curtin, and Charles F. Donovan	BC2000005	
+439643	King, George, Chaplain in the U.S. Army	BC2000005	
+439646	Harney, Martin P. at his Golden Jubilee as a Jesuit with Maurice Dullea and James Mohan	BC2000005	
+439655	Harney, Martin P. and Helen Landreth	BC2000005	
+439661	Gasson, Thomas Ignatius memorial service at the Church of the Immaculate Conception	BC2000005	
+439667	Kelley, James J., founder and Dean of the College of Business Administration	BC2000005	
+439668	Helmick, Raymond and James Halpin	BC2000005	
+439679	Keleher, William L. with J. J. Wright receiving honorary degree	BC2000005	
+439685	Healey, Robert F., Michael Hollings, Joseph Gauthier, and Francis Sweeney	BC2000005	
+439691	Harney, Martin P. at the conferral of his honorary degree	BC2000005	
+439697	Joyce, W. Seavey at the dedication of a building at Newton College of the Sacred Heart	BC2000005	
+439703	Keleher, William L., Arthur Melville, and Joseph Walsh	BC2000005	
+439707	Keleher, William L., Cardinal Griffin, and Stephen Mulcahy	BC2000005	
+439711	Kenealy, William J. as Chaplain on the U.S.S. California	BC2000005	
+439720	Joyce, W. Seavey	BC2000005	
+439722	Barth, J. Robert at Core Curriculum Task Force meeting	BC2000005	
+439724	Joyce, W. Seavey, Al Branca, and Bill Oliver	BC2000005	
+439745	Joyce, W. Seavey and James Kelley	BC2000005	
+439751	Barth, J. Robert, Dean of the School of Arts and Sciences	BC2000005	
+439755	Monan, J. Donald at Harvard commencement receiving honorary degree with Peg Dwyer, Helen Smith, John Smith, Gertrude Cheeley, and Charles F. Donovan	BC2000005	
+439763	Foley, John P., Dean of freshmen and sophomores, Principal of Boston College High School	BC2000005	
+439787	Keating, John S., Librarian	BC2000005	
+439792	Keleher, William L. and Richard Cushing	BC2000005	
+439805	Keleher, William L., Stephen Mulcahy, and Thomas Tien	BC2000005	
+439815	FitzGerald, Paul A. at convocation for an honorary degree for Amleto Giovanni Cicognani	BC2000005	
+439821	Barth, J. Robert and John Mahoney	BC2000005	
+439827	Kenealy, William J., Dean of the School of Law	BC2000005	
+439837	Hoey, Robert F., Assistant Dean of the School of Education	BC2000005	
+439853	Appleyard, Joseph, English, Director of the Honors Program	BC2000005	
+439871	Fulton, Robert, third president of Boston College	BC2000005	
+439911	Joyce, W. Seavey at his inauguration as twenty-third president of Boston College	BC2000005	
+439939	Bapst, John, first president of Boston College	BC2000005	
+440005	Gasson, Thomas Ignatius, thirteenth president of Boston College	BC2000005	
+440041	Gallagher, Louis J., seventeenth president of Boston College	BC2000005	
+440171	Keleher, William L., twentieth president of Boston College	BC2000005	
+440249	FitzGerald, Paul A., Dean of the Graduate School of Arts and Sciences, archivist	BC2000005	
+440335	Harney, Martin P., History	BC2000005	
+440453	Leahy, William P., twenty-fifth president of Boston College	BC2000005	
+440611	Joyce, W. Seavey, twenty-third president of Boston College	BC2000005	
+440867	Lyons, Charles W. and Patrick S. Foley	BC2000005	
+440873	Leahy, William P. at the American School of Classical Studies in Greece with James D. Muhly, Catherine Van der Pool, and Ambassador Burno	BC2000005	
+440875	Linehan, Daniel, J. Dixon, and J. Skehan	BC2000005	
+440883	Maxwell, Joseph R. at the dedication of Alumni Stadium	BC2000005	
+440888	Maxwell, Joseph R. with Coleman Sullivan in Brazil	BC2000005	
+440895	Monan, J. Donald, Jack Bicknell, and Bill Flynn	BC2000005	
+440899	Lyons, Charles W. on trip to New York with Michael Jessup, Patrick S. Foley, and Owen F. Hayes	BC2000005	
+440909	Lyons, Charles W., Michael Jessup, Charles Mooney, and Fred Lyons	BC2000005	
+440919	Maxwell, Joseph R. with Dwight D. Eisenhower	BC2000005	
+440925	McGuinn, Walter, Social Work	BC2000005	
+440935	Leonard, William J. and Clarence R. Rivers	BC2000005	
+440941	Linehan, Daniel with George Dufek during Operation Deep Freeze	BC2000005	
+440947	McInnes, William C. and Edward Hanrahan	BC2000005	
+440953	McEwen, Robert	BC2000005	
+440959	Monan, J. Donald at MFA reception	BC2000005	
+440964	Monan, J. Donald and John Connolly at Monan's induction into the Boston College Hall of Fame	BC2000005	
+440971	Monan, J. Donald and Edward Kennedy	BC2000005	
+440977	Monan, J. Donald with James Kelley speaking at Faneuil Hall	BC2000005	
+440978	Monan, J. Donald with Jesuit Jubilarians	BC2000005	
+440979	Linehan, Daniel, John Hynes, Michael Walsh, and Carl Espe	BC2000005	
+440994	Monan, J. Donald and "Chuckin" Charlie O'Rourke, plaque presentation on football field	BC2000005	
+441001	Monan, J. Donald and Ray Flynn	BC2000005	
+441002	MacGillivray, Arthur, Robert Frost, and Francis Sweeney	BC2000005	
+441015	Leahy, William P. at a finance conference with Alan Greenspan, Edward Markey, and Tom O'Brien	BC2000005	
+441027	Monan, J. Donald and David Lowenthal	BC2000005	
+441029	McGarry, William J., eighteenth president of Boston College	BC2000005	
+441033	Monan, J. Donald at the presentation at Alumni House of his picture	BC2000005	
+441036	Monan, J. Donald and James Whelan, president of Newton College	BC2000005	
+441037	Monan, J. Donald and John Gill	BC2000005	
+441063	Linehan, Daniel aboard the Monte Carlo saying Mass	BC2000005	
+441073	Linehan, Daniel with penguins in Antarctica	BC2000005	
+441083	Monan, J. Donald, Bob Hope, and Tip O'Neill	BC2000005	
+441093	Monan, J. Donald with the Irish government Education Ministers at the Conspicuous Consumer Conference	BC2000005	
+441103	Monan, J. Donald and Ed Koch	BC2000005	
+441106	McInnes, William C.	BC2000005	
+441122	Monan, J. Donald at the Annual Achievement Dinner meeting with the Newton-Needham Chamber of Commerce	BC2000005	
+441131	Bezuszka, Stanley, Director of the Mathematics Institute	BC2000005	
+441149	McGuinn, Albert F., Chemistry	BC2000005	
+441169	Brady, Robert W., second president of Boston College	BC2000005	
+441180	Monan, J. Donald at UMass-Amherst commencement receiving honorary degree	BC2000005	
+441184	Monan, J. Donald at Tip O'Neill Scholarship Dinner with Tip O'Neill, Edward Kennedy, and others	BC2000005	
+441215	McElroy, John S., founder of Boston College	BC2000005	
+441245	Leonard, William J., Theology	BC2000005	
+441269	Monan, J. Donald at Harvard commencement receiving honorary degree with Mother Theresa	BC2000005	
+441295	Monan, J. Donald with Harry Ellis Dickson of Boston Pops	BC2000005	
+441299	Lyons, Charles W., fourteenth president of Boston College	BC2000005	
+441349	Monan, J. Donald at his 25th anniversary of priesthood	BC2000005	
+441373	Monan, J. Donald, twenty-fourth president of Boston College	BC2000005	
+441435	Maxwell, Joseph R., twenty-first president of Boston College	BC2000005	
+441493	Linehan, Daniel, Director of Weston Observatory, founder of the Geophysics department	BC2000005	
+441619	Monan, J. Donald laying cornerstone	BC2000005	
+441629	O'Donnell, George A., Dean of Boston College Graduate School	BC2000005	
+441635	O'Brien, Richard A.	BC2000005	
+441641	Monan, J. Donald with John Dinneen and Robert VerEecke	BC2000005	
+441645	Shea, Joseph L., Faculty Representative to Athletics	BC2000005	
+441651	O'Connor, Jeremiah, fourth president of Boston College	BC2000005	
+441657	Monan, J. Donald at tribute to Fr. Marrow	BC2000005	
+441661	Monan, J. Donald with students	BC2000005	
+441665	Russo, Nicholas, seventh president of Boston College	BC2000005	
+441669	Nicholson, Francis, J. Donald Monan, and Cornelius Owens	BC2000005	
+441675	Neenan, William B., with two other deans dressed as Santas	BC2000005	
+441681	O'Brien, Richard J., Athletic Moderator	BC2000005	
+441687	Nelligan, Paul	BC2000005	
+441695	Monan, J. Donald with BC Band greeting the Holy Father John XXII at entrance to Cardinal's Residence	BC2000005	
+441701	Monan, J. Donald in dustbowl	BC2000005	
+441707	Monan, J. Donald celebrating Mass at baccalaureate	BC2000005	
+441710	Monan, J. Donald at faculty convocation reception	BC2000005	
+441719	Monan, J. Donald with BC retirees	BC2000005	
+441725	Reardon, Charles J., Richard T. Cleary, Charles J. Healey, J. Donald Monan, James Moynihan, and Daniel Shine	BC2000005	
+441726	Monan, J. Donald at 1973 Jubilee	BC2000005	
+441731	Monan, J. Donald making funny face	BC2000005	
+441734	Shea, Joseph L. and Michael P. Walsh	BC2000005	
+441749	Monan, J. Donald lacing ice skates	BC2000005	
+441755	Walsh, Joseph R. with trustees of Boston College	BC2000005	
+441761	Monan, J. Donald at 1976 Jubilee	BC2000005	
+441767	Van Beeck, J. Francis	BC2000005	
+441773	Walsh, Michael P., Joseph Shea, and William Flynn	BC2000005	
+441779	Sweeney, Francis, Alfred Jolson, and Malcolm McLeod	BC2000005	
+441785	Walsh, Michael P. at an alumni reunion with Leo C. Donahue	BC2000005	
+441791	Walsh, Michael P., Adrian O'Keefe, and John P. Birmingham	BC2000005	
+441797	Walsh, Michael P. and John King	BC2000005	
+441798	Walsh, Michael P., Peter Siragusa, Francis Leo Burke, Samuel Gerson, and Gerard O'Brien	BC2000005	
+441809	Walsh, Michael P. with members of the Engineer's Club: Charles W. White, Bert F. Moody, Henry Belauger, and Daniel F. O'Grady	BC2000005	
+441815	Monan, J. Donald with Bill Clinton at tribute to Congressman Moakley	BC2000005	
+441821	Neenan, William B., Dean of the College of Arts and Sciences	BC2000005	
+441822	Brosnahan, Timothy, tenth president of Boston College	BC2000005	
+441830	O'Malley, Thomas P., Dean of the College of Arts and Sciences	BC2000005	
+441834	Sweeney, Francis	BC2000005	
+441859	Panuska, Joseph A., Frank B. Campanella, and Charles F. Donovan at faculty convocation being introduced to the faculty	BC2000005	
+441887	Sullivan, James D., Dean of the College of Business Administration	BC2000005	
+441901	Skehan, James W. in Carlton Tunnel, Cripple Creek, Colorado	BC2000005	
+441908	Stanton, Edward S.	BC2000005	
+441939	Panuska, Joseph A., Academic Vice President and Dean of Faculties	BC2000005	
+441957	Stack, Thomas H., President of Boston College	BC2000005	
+441975	Shea, Richard G., Classics, Chaplain in the U.S. Air Force	BC2000005	
+442001	Nicholson, Francis, Rector of the Jesuit community	BC2000005	
+442011	Skehan, James W., Director of Weston Observatory, founder and Chairman of the Geology Department	BC2000005	
+442049	Rahner, Karl, Theology	BC2000005	
+442077	Walsh, Michael P., twenty-second president of Boston College	BC2000005	
+442409	Walsh, Michael P. and Francis Sweeney	BC2000005	
+442415	Walsh, Michael P., John A. Tobin, George F. Lawlor, and James J. Devlin	BC2000005	
+442421	Conners, Catherine B.	BC2000005	
+442427	Connolly, Terence L. at Shadowbrook	BC2000005	
+442433	Gearau, Marie M., Michael P. Walsh, and Charles Donovan	BC2000005	
+442435	Campanella, Francis B., Executive Vice President	BC2000005	
+442440	Budd, Wayne, member of the Board of Trustees	BC2000005	
+442449	Walsh, Michael P. at the honorary degree ceremony for Amleto Giovanni Cicognani	BC2000005	
+442455	Coughlin, Daniel T., Assistant Dean of the School of Law	BC2000005	
+442461	Walsh, Michael P. and Louis Halliwell	BC2000005	
+442465	Walsh, Michael P., Leonard Mahoney, and Daniel Saunders	BC2000005	
+442469	Walsh, Michael P. at his testimonial dinner with various guests	BC2000005	
+442479	Jesuit faculty members: Paul Fitzgerald, Michael P. Walsh, James F. Moynihan, and George Fuir	BC2000005	
+442481	Walsh, Michael P. and Robert Frost	BC2000005	
+442484	Walsh, Michael P. and Jimmy Foley	BC2000005	
+442495	Walsh, Michael P., John H. Finley, and Howard Mumford Jones	BC2000005	
+442501	Walsh, Michael P. and Eamon de Valera, Jr.	BC2000005	
+442507	Weigel, Gustave, William McInnis, and W. Seavey Joyce	BC2000005	
+442512	Walsh, Michael P. receiving an honorary degree from Villanova with Mary Bernard, John A. Klekotka, and John J. Krol	BC2000005	
+442519	Gearau, Marie M., Education	BC2000005	
+442525	Bicentennial awards day: Dullea, Maurice, James Doyle, and old football team members	BC2000005	
+442531	Walsh, Michael P. at the Presidential Reception	BC2000005	
+442537	Alper, Benedict S., Sociology	BC2000005	
+442543	Dooley, Dennis A., Dean of the Law School	BC2000005	
+442549	Bagnell, Dorothy R., Nursing	BC2000005	
+442557	Fleming, Robin, History	BC2000005	
+442559	Chaplains from Boston College faculty in WWII	BC2000005	
+442566	Driscoll, John T., Vice President for Administration	BC2000005	
+442577	Connolly, Terence L. with his mother at his ordination	BC2000005	
+442583	Flynn, William J., Mathematics, Director of the Athletic Association	BC2000005	
+442589	Connolly, Terence L. at the Boston Public Library	BC2000005	
+442590	Campanella, Francis B. with William Connell and Cornelius Owens	BC2000005	
+442592	Carroll, Anthony G., Dean of the School of Nursing	BC2000005	
+442599	Six Boston College presidents: William L. Keleher, James H. Dolan, Louis J. Gallagher, William J. Murphy, Joseph R. N. Maxwell, and Michael P. Walsh	BC2000005	
+442603	Gearau, Marie M., George McKim, and Katherine Cotter	BC2000005	
+442635	Dineen, Mary and J. Donald Monan	BC2000005	
+442645	Donley, Donald T., Dean of Education	BC2000005	
+442653	Walsh, Michael P. and Richard Cushing	BC2000005	
+442659	Monan, J. Donald, W. Seavey Joyce, and Jubilarians	BC2000005	
+442679	Connolly, Terence L. in Dublin	BC2000005	
+442685	Kenney, Margaret J., Mathematics	BC2000005	
+442695	Hayes, Carleton J. H. with Michael P. Walsh and Christopher Dawson	BC2000005	
+442702	Connolly, Terence L. at Xavier exhibit with Mary Inukai	BC2000005	
+442704	Cottle, William C., Dean of the School of Education	BC2000005	
+442729	Dineen, Mary, Dean of Nursing	BC2000005	
+442739	Figurito, Joseph with Francis Buckley and Francis Murphy	BC2000005	
+442749	Connolly, Terence L. at his 50th anniversary as a Jesuit	BC2000005	
+442767	Kelleher, Rita P., Dean of the School of Nursing	BC2000005	
+442791	Kelley, Albert J., Dean of the School of Management	BC2000005	
+442847	Connolly, Terence L., Librarian	BC2000005	
+442977	Kinnane, Mary, Education	BC2000005	
+442983	First Law School faculty	BC2000005	
+442987	Wright, Vincent P., Dean of the MBA program	BC2000005	
+442988	Munro, Barbara, Dean of the School of Nursing	BC2000005	
+442999	Maher, Mary Ann, Dean of the School of Nursing	BC2000005	
+443005	McIntyre, James P., Senior Vice President	BC2000005	
+443011	O'Neil, Kevin, History	BC2000005	
+443016	Kinnane, Mary, J. Donald Monan, and John Lawton at the Fulton Prize Debate	BC2000005	
+443023	Whiting, Douglas J., Director of the Communications Office	BC2000005	
+443029	Quinn, Joseph, Economics	BC2000005	
+443031	White, Donald J., Dean of the Graduate School of Arts and Sciences	BC2000005	
+443041	Faculty rounding out 25 years at BC: John Shork, Hammy Doyle, David O'Donnell, Andre G. deBeauvivier, and Harold Zagers	BC2000005	
+443047	Faculty and staff retiring: Rita P. Kelleher, Joseph Maguire, J. Donald Monan, H. Callahan, Leo P. O'Keefe, William Leonard, and Richard Sullivan	BC2000005	
+443053	Celebrating their 25th anniversary at BC: Radu R. Florescue, J. Donald Monan, Justin Cronin, Margaret Griffin, Arthur MacGillivray, John McAleer, John J. Walsh, and Daniel McCue	BC2000005	
+443056	Michalczyk, John, Fine Arts	BC2000005	
+443067	Peloquin, C. Alexander and Cardinal Wright in Rome	BC2000005	
+443076	McHugh, Marie, Associate Dean of the College of Arts and Sciences	BC2000005	
+443087	Sherwood, Robert A., Dean of Student Development	BC2000005	
+443097	Neuhauser, John J., Computer Science	BC2000005	
+443109	Devlin, William, fifteenth president of Boston College	BC2000005	
+443125	Peloquin, C. Alexander, Director of the University Chorale	BC2000005	
+443128	Manning, Roberta, History	BC2000005	
+443159	McAleer, John J., English	BC2000005	
+443181	Macomber, Allison, Artist-in-Residence at Boston College	BC2000005	
+443207	Pekarski, Mary Louise, School of Nursing, Librarian	BC2000005	
+443209	Dolan, James H., sixteenth president of Boston College	BC2000005	
+443301	Donovan, Charles F., Dean of the School of Education	BC2000005	
+443417	Woods, James A., Dean of the Evening School and Summer School	BC2000005	
+443429	Barth, J. Robert, Dean of the College of Arts and Sciences	BC2000005	
+443435	MacLochlainn, Alf, Burns Visiting Scholar in Irish Studies	BC2000005	
+443441	Monan, J. Donald with Sen. Brooke in front of LaFollette portrait	BC2000005	
+443459	Bluhm, Heinz, German Studies	BC2000005	
+443463	Murphy, Paul	BC2000005	
+443523	Guinness, Alec with Ralph Bunche	BC1986032	
+443529	Honorary degree recipients: John F. Kennedy, Father Maxwell, Richard Cushing, Frederick Donagh, Charles Munch, and Edward Williams	BC1986032	
+443530	Hapsburg, Otto von	BC1986032	
+443541	Guinness, Alec with Michael P. Walsh	BC1986032	
+443549	Guinness, Alec	BC1986032	
+443561	Kennedy, John F. (John Fitzgerald) signing guest book at Boston College	BC1986032	
+443565	Kennedy, Edward M. (Edward Moore)	BC1986032	
+443569	Auden, W. H. (Wystan Hugh) for class of 1965	BC1986032	
+443573	Kennedy, John F. (John Fitzgerald) at NFCCS Convention	BC1986032	
+443579	Lawrence, Amos A.	BC1986032	
+443585	O'Faolain, Sean	BC1986032	
+443589	Jones, Howard Mumford	BC1986032	
+443597	O'Fiaich, Tomas, Cardinal	BC1986032	
+443602	McEwen, Robert J.	BC1986032	
+443607	Kennedy, Edward M. (Edward Moore) at 50th anniversary of Boston College Law School	BC1986032	
+443613	Nimoy, Leonard	BC1986032	
+443617	MacBride, Seán with Sean Nunan and Noel Martnett	BC1986032	
+443622	Ward, Barbara with Robert C. O'Leary, Valerie Dawson, and Christopher Dawson	BC1986032	
+443629	Kennedy, John F. (John Fitzgerald) with Richard Cushing	BC1986032	
+443633	O'Neill, Tip with Millie O'Neill, J. Donald Monan, and students	BC1986032	
+443639	Auden, W. H. (Wystan Hugh) with Dr. and Mrs. Hirsh	BC1986032	
+443645	Mondale, Walter F.	BC1986032	
+443649	Kennedy, Edward M. (Edward Moore) among a group of BC students	BC1986032	
+443651	Tutu, Desmond	BC1986032	
+443654	Plimpton, George	BC1986032	
+443664	Auden, W. H. (Wystan Hugh) for class of 1965 with Francis Sweeney and John L. Mahoney	BC1986032	
+443671	King, Coretta Scott with Dan Bunch of the Black Studies program	BC1986032	
+443674	Kennedy, Robert F.	BC1986032	
+443683	Mead, Margaret	BC1986032	
+443689	Lowell, Robert	BC1986032	
+443695	Garden party outside Alumni Hall	BC1986032	
+443699	Basie, Count	BC1986032	
+443700	Warwick, Dionne	BC1986032	
+443709	Moakley, John Joseph receiving award from William P. Leahy	BC1986032	
+443715	O'Neill, Tip with Michael P. Walsh receiving award	BC1986032	
+443718	Auden, W. H. (Wystan Hugh) last visit to BC	BC1986032	
+443727	Warren, Earl	BC1986032	
+443731	Sandburg, Carl	BC1986032	
+443737	Lawn Party fundraiser	BC1986032	
+443743	United Way Annual Campaign: J. Donald Monan at podium	BC1986032	
+443747	Waugh, Evelyn with William J. Leonard	BC1986032	
+443753	Lodge, Henry Cabot speaking at International Affairs lecture	BC1986032	
+443761	Flynn, Raymond L. with J. Donald Monan, Alan Rogers, Ira Stepanian, and Thomas F. O'Connor	BC1986032	
+443763	White, Kevin H.	BC1986032	
+443771	Bea, Augustin in front of Gasson Hall	BC1986032	
+443775	Commencement ceremony	BC1986032	
+443776	Kennedy, John F. (John Fitzgerald)	BC1986032	
+443787	Walsh, Timothy	BC1986032	
+443799	Various guests at Laetare Sunday: Cornelius R. Owens, J. Donald Monan, Edward Bennett Williams, John Curtin, and James Derba	BC1986032	
+443805	Various guests: George Ladd, Fred Penino, Kevin Duffy, Barry Canner, James Hickey, J. Donald Monan, Theodore D. Mann, and William Quinn	BC1986032	
+443808	Hynes, John B., Mayor	BC1986032	
+443821	MacBride, Seán with William Keleher	BC1986032	
+443825	Truman, Harry S. speaking	BC1986032	
+443839	Wessell, Nils Yngve with James P. O'Neill, J. Donald Monan, and Thomas J. Galligan, Jr.	BC1986032	
+443845	Auden, W. H. (Wystan Hugh)	BC1986032	
+443855	Women's Auxiliary posing on Linden Lane in front of Saint Mary's Hall for the 1921 Development Drive	BC1986032	
+443861	King, Edward J. in BC football uniform	BC1986032	
+443871	Opening of the two million dollar fundraising drive with float on Park Street	BC1986032	
+443872	Moakley, John Joseph	BC1986032	
+443873	Retirement dinner for John T. Driscoll with Edward J. King, Endicott Peabody, Francis W. Sargent, Robert Q. Crane, and William M. Bulger	BC1986032	
+443875	Commencement with William O'Connell	BC1986032	
+443907	Inukai, Mary	BC1986032	
+443921	Carter, Jimmy with J. Donald Monan at Boston College for Tip O'Neill birthday party	BC1986032	
+443925	O'Neill, Tip	BC1986032	
+443928	Waugh, Evelyn	BC1986032	
+443935	Eliot, T. S. (Thomas Stearns) and Valerie Eliot	BC1986032	
+443949	Eliot, T. S. (Thomas Stearns) and Valerie Eliot with Michael Walsh	BC1986032	
+443953	Kennedy, John F. (John Fitzgerald)	BC1986032	
+443954	Commencement with Mary C. Mellyn and William O'Connell	BC1986032	
+443955	Cassavetes, John with Gena Rowlands at McGuinn Hall	BC1986032	
+443968	Collins, John, Mayor of Boston	BC1986032	
+443970	Eliot, T. S. (Thomas Stearns)	BC1986032	
+443974	Eliot, T. S. (Thomas Stearns) with Morris Quinlan	BC1986032	
+443975	Church, Samuel with J. Donald Monan and Gerhardt Bleiken	BC1986032	
+443981	Eliot, T. S. (Thomas Stearns) and Valerie Eliot with Michael Walsh	BC1986032	
+443993	Frost, Robert with Michael P. Walsh	BC1986032	
+443996	Volpe, John A.	BC1986032	
+444013	Foch, Ferdinand	BC1986032	
+444016	De Valera, Eamon	BC1986032	
+444017	Kennedy, John F. (John Fitzgerald)	BC1986032	
+444028	Garrity, W. Arthur (Wendell Arthur)	BC1986032	
+444057	Medeiros, Humberto Sousa with Silvio Conte and J. Donald Monan	BC1986032	
+444070	Fiedler, Arthur at Roberts Center	BC1986032	
+444081	Leadership conference and awards ceremony	BC1986032	
+444090	Goldwater, Barry M. (Barry Morris)	BC1986032	
+444101	Ward, Barbara	BC1986032	
+444103	Graham, Billy with William B. Neenan	BC1986032	
+444105	Buckley, William F. (William Frank)	BC1986032	
+444131	Burns, Alice Blake (Mrs. John J. Burns) with Terrence Connolly at dedication of Thompson plaque	BC1986032	
+444135	King, Edward J.	BC1986032	
+444144	Lazaro golf tournament: Joe Lazaro, Bob Hope, and J. Donald Monan	BC1986032	
+444152	Harvard commencement: J. Donald Monan receiving honorary degree with Mother Teresa and Derek C. Bok	BC1986032	
+444187	Foch, Ferdinand leaving Boston College after receiving honorary degree	BC1986032	
+444193	Fonda, Jane	BC1986032	
+444203	State dinner for the Emerald Isle Classic: Charles J. Haughey, John Hume, Edward M. Kennedy, Tomas O'Fiaich, Raymond Flynn, Thomas J. Flatley, Kathleen Flatley, Dave R. Palmer, James F. Cleary, J. Donald Monan, Ben Briscoe, Christopher Dodd, and Margaret Heckler	BC1986032	
+444229	Eisenhower, Dwight D. (Dwight David)	BC1986032	
+444231	Dawson, Christopher and Lady Barbara Ward Jackson	BC1986032	
+444233	Dawson, Christopher with Michael Walsh	BC1986032	
+444247	Morgan, Joseph M.	BC1986032	
+444248	Truman, Harry S.	BC1986032	
+444281	Frost, Robert with Francis Sweeney	BC1986032	
+444291	Carter, Jimmy with Ted Kennedy at Boston College	BC1986032	
+444297	Boston College students rallying for Jimmy Carter	BC1986032	
+444300	Budd, Wayne A. (Wayne Anthony)	BC1986032	
+444309	Dolan, James H., Father, with Mandolin Club	BC1986032	
+444315	Carter, Jimmy as presidential candidate speaking at Boston College	BC1986032	
+444321	Carter, Jimmy speaking at Boston College	BC1986032	
+444325	Fiedler, Arthur	BC1986032	
+444349	Lazaro golf tournament: J. Donald Monan, Bob Hope, and James O'Neill	BC1986032	
+444369	Dawson, Christopher and Alec Guinness	BC1986032	
+444379	Bowman, Thea at AHANA House dedication	BC1986032	
+444397	Humphrey, Hubert H. (Hubert Horatio)	BC1986032	
+444412	Kennedy, John F. (John Fitzgerald) at Centennial Convocation at Boston College	BC1986032	
+444458	Dedication of the Wallace E. Carroll School of Management: John J. Neuhauser, Thomas A. Vanderslice, Richard R. Syron, Margaret Syron, Thomas J. Flatley, John T. Driscoll, J. Donald Monan, and Le Carroll with members of the Carroll family	BC1986032	
+444475	De Valera, Eamon, Dr.	BC1986032	
+444503	Hope, Bob with Donald Monan	BC1986032	
+444506	Umberto II, King of Italy	BC1986032	
+444539	Frost, Robert	BC1986032	
+444586	Lemass, Sean	BC1986032	
+444645	Bush, George	BC1986032	
+444667	Eliot, T. S. (Thomas Stearns)	BC1986032	
+444693	Hope, Bob	BC1986032	
+444749	Saint Mary's Hall interior: chapel altar during service for Holy Thursday	BC1987012	
+444755	Saint Mary's Hall exterior: manger scene	BC1987012	
+444761	Saint Mary's Hall exterior during construction with materials and power lines	BC1987012	
+444767	Saint Mary's Hall exterior during construction, cornerstone laying with Patrick S. Foley, John C. O'Connell, Bernard Malone, John S. Keating, William J. Conway, Charles W. Lyons, William V. Corliss, William Devlin, Michael Jessup, Ignatius Novik, Owen F. Hayes, William Logue, and Daniel P. Creedon	BC1987012	
+444773	Saint Mary's Hall exterior during construction, from sidewalk	BC1987012	
+444779	Saint Mary's Hall exterior: back and lawn with parked cars	BC1987012	
+444783	Saint Joseph's Hall exterior: side with priest and students talking close up	BC1987012	
+444786	Saint Mary's Hall exterior: front from left on unpaved Linden Lane, by Clifton Church	BC1987012	
+444793	Saint Mary's Hall exterior: cloister garden without grass, by Clifton Church	BC1987012	
+444797	Saint Mary's Hall exterior during construction, from Linden Lane	BC1987012	
+444803	Saint Mary's Hall exterior during construction, from Linden Lane when almost finished	BC1987012	
+444805	Bapst Library exterior: main entrance and street with cars through trees	BC1987012	
+444814	Saint Joseph's Hall exterior: side with priest and students talking	BC1987012	
+444817	Saint Mary's Hall exterior: back view with snow, by Clifton Church	BC1987012	
+444820	Saint Mary's Hall exterior: front entrance with snow from Linden Lane, by Clifton Church	BC1987012	
+444830	Saint Mary's Hall exterior: front entrance with street lamp in snow, by Clifton Church	BC1987012	
+444836	Saint Mary's Hall exterior: front with street lamp in snow, by Clifton Church	BC1987012	
+444845	Saint Mary's Hall exterior: side view with snow by Clifton Church	BC1987012	
+444848	Saint Mary's Hall exterior: cloister garden with snow, by Clifton Church	BC1987012	
+444856	Saint Mary's Hall exterior: front from right on lawn, by Clifton Church	BC1987012	
+444863	Bapst Library exterior: Ford Tower, side view with old trolley line running down Commonwealth Avenue	BC1987012	
+444869	O'Neill Library interior: students studying at table	BC1987012	
+444872	O'Neill Library interior: students studying at table and browsing the stacks	BC1987012	
+444878	O'Neill Library interior: staff member answering phone at desk	BC1987012	
+444880	Roberts Center exterior: relief of basketball player	BC1987012	
+444893	Roberts Center exterior: main entrance	BC1987012	
+444895	Roberts Center interior during dedication	BC1987012	
+444903	O'Neill Library interior: student using computer with Infotrac	BC1987012	
+444906	O'Neill Library interior: student standing at microfilm machine	BC1987012	
+444919	O'Neill Library interior: student with headphones looking at screen	BC1987012	
+444920	O'Neill Library interior: student using microfilm machine to view the Wall Street Journal	BC1987012	
+444934	Keyes Dormitories exterior with Spellman Infirmary	BC1987012	
+444936	Bapst Library exterior: groundbreaking with William Devlin, Patrick J. McHugh, Daniel J. Lynch, and Edwin O. Childs	BC1987012	
+444947	Saint Joseph's Hall exterior: demolition with crane	BC1987012	
+444951	O'Neill Library interior: students working at computers	BC1987012	
+444961	Robsham Theatre exterior: groundbreaking, J. Donald Monan and unidentified woman with shovel	BC1987012	
+444966	Bapst Library exterior: groundbreaking with William Devlin	BC1987012	
+444973	Shaw House exterior: blessing with George Drury and Michael P. Walsh	BC1987012	
+444974	Robsham Theatre exterior: groundbreaking, J. Donald Monan listening to Joseph M. Larkin speak at podium	BC1987012	
+444976	Robsham Theatre exterior: groundbreaking, J. Donald Monan with shovel turning sod	BC1987012	
+444979	Robsham Theatre exterior: groundbreaking, J. Donald Monan speaking to group	BC1987012	
+444984	Robsham Theatre exterior: groundbreaking, J. Donald Monan and two unidentified men	BC1987012	
+445001	Robsham Theatre exterior: groundbreaking, J. Donald Monan listening to unidentified man at podium	BC1987012	
+445009	Robsham Theatre exterior: groundbreaking, J. Donald Monan and two unidentified men with shovels	BC1987012	
+445037	Boston College South End campus exterior: James Street building next to the Immaculate Conception Church	BC1987012	
+445043	Boston College South End campus exterior: faculty residence and Boston College Hall	BC1987012	
+445049	Boston College South End campus exterior on James Street	BC1987012	
+445055	Boston College South End campus exterior: faculty residence from street	BC1987012	
+445059	Boston College South End campus exterior: faculty residence with horse and carriage	BC1987012	
+445065	Boston College South End campus exterior: James Street building after alterations	BC1987012	
+445067	Boston College South End campus interior: auditorium	BC1987012	
+445068	Boston College South End campus interior: library	BC1987012	
+445073	Boston College South End campus exterior with the tower	BC1987012	
+445085	Alumni Field renovation	BC1987012	
+445086	Boston College South End campus interior: recreation room	BC1987012	
+445095	Boston College South End campus exterior from Harrison Avenue	BC1987012	
+445100	O'Neill Library exterior: main entrance with student walking in	BC1987012	
+445105	O'Neill Library exterior: plaza, putting lights on the evergreen tree for Christmas	BC1987012	
+445107	O'Neill Library exterior under construction with Gasson tower in background	BC1987012	
+445113	Boston College South End campus exterior: faculty residence	BC1987012	
+445115	O'Neill Library exterior and plaza during construction	BC1987012	
+445125	O'Neill Library exterior at night from stairway leading to plaza	BC1987012	
+445129	O'Neill Library exterior under construction with workers and cement truck	BC1987012	
+445137	Boston College South End campus interior: auditorium or Boston College Hall	BC1987012	
+445139	Boston College South End campus interior: gymnasium	BC1987012	
+445147	O'Neill Library exterior, photograph of architectural model	BC1987012	
+445151	O'Neill Library exterior: groundbreaking ceremony with J. Donald Monan	BC1987012	
+445161	Intown School exterior at 126 Newbury Street	BC1987012	
+445171	O'Neill Library exterior: planning committee and library unveiling in Gasson 100 with Roy Daley	BC1987012	
+445181	Modular Apartments exterior: aerial view with Hillside Dorms in background	BC1987012	
+445185	Lyons Hall exterior: laying the cornerstone crowd	BC1987012	
+445189	Lyons Hall exterior: blessing during construction	BC1987012	
+445195	Merkert Center exterior under construction	BC1987012	
+445201	Lyons Hall interior: cafeteria with students in line	BC1987012	
+445207	McElroy Commons interior: Women's Resource Center window	BC1987012	
+445213	Mill Street Cottage exterior	BC1987012	
+445217	O'Connell House: Liggett Estate exterior, grounds with house in background	BC1987012	
+445221	Lyons Hall exterior: construction of the tower	BC1987012	
+445227	Boston College South End campus exterior at 761 Harrison Avenue	BC1987012	
+445233	McElroy Commons exterior from Beacon Street	BC1987012	
+445237	O'Connell House exterior: front from side with students on lawn	BC1987012	
+445238	Lyons Hall exterior during construction, William L. Keleher wishes worker good luck as worker prepares to ride with cross to the roof	BC1987012	
+445253	Lyons Hall exterior: laying the cornerstone with Richard Cushing, William L. Keleher, John C. O'Connell, and Daniel Lynch	BC1987012	
+445255	McElroy Commons exterior: groundbreaking with John E. Murphy, Richard Cushing, and Michael P. Walsh	BC1987012	
+445257	McElroy Commons exterior: groundbreaking with Richard Cushing, Michael P. Walsh, and Frank Rossiter	BC1987012	
+445258	McElroy Commons exterior: groundbreaking with Richard Cushing and Michael P. Walsh	BC1987012	
+445261	McHugh Forum exterior: demolition	BC1987012	
+445278	McGuinn Hall exterior: dedication	BC1987012	
+445289	McGuinn Hall exterior: front from side	BC1987012	
+445295	McHugh Forum exterior: groundbreaking, Michael P. Walsh with a shovel	BC1987012	
+445301	McHugh Forum exterior: groundbreaking with John A. Kelley, Michael P. Walsh, and William J. Flynn	BC1987012	
+445306	McHugh Forum exterior: groundbreaking with John King, Charles W. O'Brien, Michael P. Walsh, John J. Griffin, and Fred Dyer	BC1987012	
+445313	McHugh Forum exterior after completion	BC1987012	
+445318	O'Connell House exterior: driveway with priest and students standing	BC1987012	
+445333	Gasson Hall interior: rededication	BC1987012	
+445355	Bapst Library interior: British Catholic Authors Room by Clifton Church	BC1987012	
+445373	Alumni Field as hockey and ice rink	BC1987012	
+445389	Bapst Library interior: Gargan Hall alcoves with students studying at desks and views of stained glass windows	BC1987012	
+445407	Robsham Theatre exterior: Theatre Campaign luncheon with Leonard Nimoy, J. Donald Monan, John Cataldo, and unidentified guests	BC1987012	
+445435	Gasson Hall exterior: front from Bapst Library lawn	BC1987012	
+445449	Devlin Hall interior: physics lab with Joe Koslowski, Sunny Foley, and Tom Rafferty (members of the class of 1925), and John Shork	BC1987012	
+445463	Devlin Hall exterior from quad with tree, by Clifton Church	BC1987012	
+445469	Bapst Library exterior: groundbreaking, postcard	BC1987012	
+445483	Saint Thomas More Hall interior: desks and exterior parking lot	BC1987012	
+445497	Saint Mary's Hall interior: Jesuit refectory	BC1987012	
+445503	Stuart House exterior: main entrance with ivy	BC1987012	
+445506	Saint Thomas More Hall exterior with snow in winter	BC1987012	
+445513	Bapst Library exterior: main entrance from side with trees, hedges, power lines, and students on steps	BC1987012	
+445519	Walsh Hall exterior: groundbreaking crowd	BC1987012	
+445525	Saint Thomas More Hall interior: desks and hallways	BC1987012	
+445531	Saint Thomas More Hall interior: law library stacks and exterior side view	BC1987012	
+445532	Saint Mary's Hall interior: chapel and pews	BC1987012	
+445542	Saint Thomas More Hall interior: desks, hallway, and exterior steps	BC1987012	
+445543	Saint Thomas More Hall exterior: aerial view	BC1987012	
+445555	Walsh Hall exterior: dedication with Kay Walsh Dunford, Martin Walsh, Frank Walsh, Thomas Walsh, J. Donald Monan, and Mary Walsh Hayhurst	BC1987012	
+445559	Saint Thomas More Hall interior: hallway, offices, and classrooms	BC1987012	
+445560	Saint Thomas More Hall exterior: blessing with Richard Cushing	BC1987012	
+445567	Saint Thomas More Hall exterior: steps from driveway	BC1987012	
+445568	Voute Hall exterior: main entrance	BC1987012	
+445571	Walsh Hall exterior: dedication, Donald J. White speaking	BC1987012	
+445578	Saint Thomas More Hall interior: hallway, classrooms, and exterior lawn	BC1987012	
+445595	Saint Thomas More Hall interior with students	BC1987012	
+445598	Walsh Hall exterior: dedication, crowd seated listening to speaker	BC1987012	
+445599	Saint Thomas More Hall exterior from reservoir	BC1987012	
+445601	Walsh Hall exterior: dedication with J. Donald Monan, Francis C. Mackin, Mary Walsh Hayhurst, Kay Walsh Dunford, Martin Walsh, Frank Walsh, and Thomas Walsh	BC1987012	
+445603	Walsh Hall exterior: dedication with Raymond and Mrs. Simmes, Alfred G. Pennino, Jan and Frank Campanella, and Brian Massey	BC1987012	
+445605	Saint Thomas More Hall interior: offices and exterior side and parking lot	BC1987012	
+445630	Walsh Hall exterior: dedication with Kevin P. Duffy, Donald J. White, Patricia A. Spencer, John A. Dinneen, J. Donald Monan, and Francis C. Mackin	BC1987012	
+445639	Walsh Hall exterior: groundbreaking, J. Donald Monan and three unidentified men with shovels	BC1987012	
+445643	Walsh Hall exterior: groundbreaking, J. Donald Monan with shovel	BC1987012	
+445647	Walsh Hall exterior: groundbreaking, J. Donald Monan and two unidentified men with shovels	BC1987012	
+445653	Gasson Hall and Saint Mary's Hall in winter by Clifton Church	BC1987012	
+445657	Saint Mary's Hall, Gasson Hall, and Bapst Library from across Commonwealth Avenue, looking down Linden Lane, by Clifton Church	BC1987012	
+445661	Walsh Hall exterior: students lined up at Bay Bank ATM	BC1987012	
+445667	Saint Mary's Hall, Gasson Hall, and Bapst Library from Commonwealth Avenue looking down Linden Lane, by Clifton Church	BC1987012	
+445673	Gasson Hall and Bapst Library from College Road by Clifton Church	BC1987012	
+445679	Walsh Hall interior: Golden Lantern with students eating	BC1987012	
+445682	Weston Observatory exterior: front	BC1987012	
+445691	Devlin Hall, Saint Mary's Hall, Gasson tower, and Bapst Library by Clifton Church	BC1987012	
+445697	Saint Mary's Hall and Gasson Hall from flowery edge of Linden Lane, by Clifton Church	BC1987012	
+445700	Saint Mary's Hall, Devlin Hall, and Gasson Hall from sidewalk on Linden Lane, by Clifton Church	BC1987012	
+445701	Devlin Hall, Gasson Hall, Saint Mary's Hall, and Bapst Library from path around reservoir, by Clifton Church	BC1987012	
+445702	Devlin Hall, Gasson Hall, Saint Mary's Hall, and Bapst Library from reservoir in winter, by Clifton Church	BC1987012	
+445703	Gasson Hall, Saint Mary's Hall, and Devlin tower from road behind fence by Clifton Church	BC1987012	
+445704	Devlin Hall, Gasson Hall, Saint Mary's Hall, and Bapst Library from path around reservoir, with bare trees, by Clifton Church	BC1987012	
+445706	Saint Mary's Hall, Gasson Hall, and construction near Bapst Library looking down Linden Lane, by Clifton Church	BC1987012	
+445707	Devlin Hall, Gasson Hall, and Saint Mary's Hall from reservoir, with path and bench, by Clifton Church	BC1987012	
+445708	Saint Mary's Hall and Bapst Library on a snowy day, by Clifton Church	BC1987012	
+445710	Devlin tower, Gasson Hall, Saint Mary's Hall, and Bapst Library Ford Tower from path around reservoir, by Clifton Church	BC1987012	
+445713	Alumni Field stands and construction	BC1987012	
+445729	Saint Mary's Hall, Gasson Hall, and Devlin Hall in spring, by Clifton Church	BC1987012	
+445741	Devlin Hall, Saint Mary's Hall, Bapst Library, and Gasson tower by Clifton Church	BC1987012	
+445781	Gasson Hall and Devlin Hall from athletic fields by Clifton Church	BC1987012	
+445787	Picnic on grounds of future Bapst Library	BC1987012	
+445793	Saint John's seminary and reservoir from window at Boston College	BC1987012	
+445796	Anatomy laboratory with priest and students	BC1987012	
+445801	Gasson Hall and Saint Mary's Hall from reservoir, by Clifton Church	BC1987012	
+445809	Michael P. Walsh with students in lab	BC1987012	
+445813	Twin reservoirs, by Clifton Church	BC1987012	
+445817	Beacon Street entrance opening with American flags on pillars and crowd preparing for ribbon cutting	BC1987012	
+445819	Faculty member instructing students at chalkboard	BC1987012	
+445821	Barracks for the Student Army Training Corps	BC1987012	
+445830	Path from main campus to dormitories	BC1987012	
+445837	Students studying in science library	BC1987012	
+445841	Saint Mary's Hall, Gasson Hall, and Bapst Library with snow, from across Commonwealth Avenue looking down Linden Lane, clipping with Student Army Training Corps unit lined up on Linden Lane and chapel altar on reverse	BC1987012	
+445844	Devlin Hall, Gasson Hall, and Saint Mary's Hall with tree on right, from path around reservoir, by Clifton Church	BC1987012	
+445848	Gasson Hall exterior from grass on opposite side of reservoir by Clifton Church	BC1987012	
+445855	Devlin Hall interior: Boston College Radio Station	BC1987012	
+445861	Gasson Hall, Saint Mary's Hall, and Bapst Library on photo album page	BC1987012	
+445862	Gasson Hall interior: Irish Room as a classroom with empty desks	BC1987012	
+445871	Alumni Field during football practice with view of Devlin Hall under construction and Gasson Hall	BC1987012	
+445877	John J. Power with students Pauline Rooney, Jeanne McGuiggin, and Mary Miller	BC1987012	
+445883	Commonwealth Avenue entrance with Saint Mary's Hall, Gasson Hall, and Devlin Hall under construction	BC1987012	
+445889	Bapst Library exterior: south view with helicopter landing in main entrance lawn for Start of Business seminar	BC1987012	
+445893	Sigma Pi Sigma students posing in lab	BC1987012	
+445901	Barat House exterior: front view with ivy and car	BC1987012	
+445907	Chemical Society students posing in lab	BC1987012	
+445912	Students working in Chemistry laboratory	BC1987012	
+445927	Gasson Hall and Saint Mary's Hall from reservoir in winter, by Clifton Church	BC1987012	
+445931	Gasson Hall interior: Honors Library by Clifton Church	BC1987012	
+445935	Saint Mary's Hall, Devlin Hall, and Gasson Hall with construction near Bapst Library, from Linden Lane, by Clifton Church	BC1987012	
+445939	Gasson Hall and Saint Mary's Hall from snowy path around reservoir, by Clifton Church	BC1987012	
+445943	Unidentified building interior: classroom with table and chairs by Clifton Church	BC1987012	
+445947	Alumni Hall exterior: Philomatheia Club, Commonwealth Avenue, postcard	BC1987012	
+445948	Alumni Field and stands with view of Gasson Hall, Devlin Hall, and other campus buildings	BC1987012	
+445958	Gasson Hall exterior: groundbreaking, Thomas Ignatius Gasson breaking first sod in center	BC1987012	
+445969	Barracks interior: James W. Skehan in the Soils Mechanics Lab	BC1987012	
+445975	Lyons Hall exterior: postcard	BC1987012	
+445981	Gasson Hall interior: rededication, Paul Fitzgerald, Charles Finn, and Frank McManus with cake shaped like Gasson Hall	BC1987012	
+445982	Bapst Library interior: dedication with J. Donald Monan, Charles Donovan, Thomas O'Connell, and David Nelson	BC1987012	
+445991	Barracks exterior: under construction on Freshman Field	BC1987012	
+445996	Gasson Hall interior: rededication with Thomas O'Malley, Frank Campanella, Mary Dineen, Charles Donovan, Robert Braunreuther, J. Donald Monan, and Donald White	BC1987012	
+445998	Robsham Theatre interior: grand opening with J. Donald Monan and unidentified guests	BC1987012	
+446006	Devlin Hall, Gasson Hall, Saint Mary's Hall, and Bapst Library from frozen and snowy reservoir, by Clifton Church	BC1987012	
+446008	Alumni Field and stands with crowd for unidentified event	BC1987012	
+446011	Bapst Library exterior: Ford Tower, side view from Linden Lane, by Clifton Church	BC1987012	
+446033	Botolph House exterior: view from Old Colony Road	BC1987012	
+446034	Bapst Library exterior: Ford Tower and Saint Mary's Hall, postcards	BC1987012	
+446038	Bourneuf House exterior on College Road	BC1987012	
+446054	Alumni Field during baseball practice	BC1987012	
+446061	Bapst Library exterior: dedication with James H. Dolan, Alvan T. Fuller, Jones I. Corrigan, and Ernest D. Hatch	BC1987012	
+446071	Medeiros Townhouses exterior: dedication, J. Donald Monan, William Helmick, Sadie Golub, Robert Capalbo, and John Dinneen	BC1987012	
+446083	Bapst Library interior: Thomas P. O'Neill, Jr., Office, postcard	BC1987012	
+446084	Saint Thomas More Hall exterior: School of Law, postcard	BC1987012	
+446089	Devlin Hall exterior, by Clifton Church, postcard	BC1987012	
+446091	Boston College South End campus exterior, postcard	BC1987012	
+446104	Bapst Library interior: Gargan Hall with students studying	BC1987012	
+446111	Bapst Library interior: Gargan Hall, student on floor using card catalog	BC1987012	
+446115	Alumni Field as ice rink with Gasson Hall in background	BC1987012	
+446116	Alumni Field in winter with Gasson in background	BC1987012	
+446127	Bapst Library interior: old auditorium, empty	BC1987012	
+446128	Bapst Library interior: old auditorium, cleared before renovation	BC1987012	
+446139	Alumni Hall destruction	BC1987012	
+446141	Bapst Library interior: Gargan Hall, students at desks	BC1987012	
+446143	Bapst Library interior: Gargan Hall facing entrance with students studying	BC1987012	
+446148	Bapst Library interior: Gargan Hall, student using card catalog	BC1987012	
+446154	Bapst Library interior: stacks with John O'Loughlin at his desk	BC1987012	
+446160	Bapst Library interior: old auditorium	BC1987012	
+446176	Bapst Library interior: Lonergan Center with students at tables	BC1987012	
+446179	Alumni Hall closing ceremonies: Brian B. Sullivan, William Neenan, John F. Wissler, Joseph Warner, Richard T. Horan, Robert W. Kelly, Francis B. Campanella, John E. Joyce, and David Thomas	BC1987012	
+446183	Bowman House exterior: front view	BC1987012	
+446187	Brock House exterior: front view	BC1987012	
+446203	Bapst Library interior: Lonergan Center	BC1987012	
+446213	Campion Hall exterior: foundation under construction	BC1987012	
+446219	Cheverus Hall exterior: main entrance with student out front	BC1987012	
+446223	Alumni Hall exterior with view of Gasson in background	BC1987012	
+446229	Campion Hall exterior under construction with workers and Gasson Hall in background	BC1987012	
+446230	Campion Hall exterior: blessing with Richard Cushing and Joseph R. N. Maxwell	BC1987012	
+446241	Carney Hall exterior under construction with puddle, debris, and view of cars on street	BC1987012	
+446242	Campion Hall exterior: dedication crowd with Gasson Hall in background	BC1987012	
+446250	Carney Hall exterior: groundbreaking with Joseph Maguire, Richard Cushing, and Michael P. Walsh with shovels	BC1987012	
+446252	Carney Hall exterior: groundbreaking with John L. Mahoney, Michael P. Walsh, Michael Bright, Robert Wenstrup, Daniel Saunders, and Eric F. MacKenzie	BC1987012	
+446259	Campion Hall exterior: groundbreaking crowd	BC1987012	
+446261	Campion Hall interior: students having lunch in former gymnasium	BC1987012	
+446277	Alumni Hall exterior	BC1987012	
+446283	Carney Hall exterior: groundbreaking with Richard Cushing and Michael P. Walsh, Helen FitzGerald, Chris Flynn, and Gasson Hall in background	BC1987012	
+446284	Cushing Hall exterior under construction being observed by the officers of the sophomore class of the School of Nursing	BC1987012	
+446286	Connolly House exterior: front and garage	BC1987012	
+446297	Carney Hall exterior: groundbreaking with Helen FitzGerald, Richard Cushing, Joseph Maguire, and Michael P. Walsh	BC1987012	
+446298	Cushing Hall exterior: dedication and sealing of the cornerstone by Richard Cushing	BC1987012	
+446301	Cheverus Hall exterior under construction with view of Fitzpatrick Hall	BC1987012	
+446307	Carney Hall exterior under construction	BC1987012	
+446310	Cushing Hall exterior: groundbreaking	BC1987012	
+446331	Campion Hall exterior: groundbreaking with Richard Cushing, Gregoire-Pierre Agagianian, and Joseph R. N. Maxwell	BC1987012	
+446334	Cushing Hall exterior: main entrance from road	BC1987012	
+446345	Caretaker's Cottage exterior on Newton Campus	BC1987012	
+446353	Carney Hall exterior: dedication with Michael P. Walsh, Eric F. MacKenzie, Daniel Saunders, Michael Bright, and Robert Wenstrup	BC1987012	
+446363	Campion Hall exterior: groundbreaking with Joseph R. N. Maxwell, Richard Cushing, and Gregoire-Pierre Agagianian with shovels	BC1987012	
+446373	Devlin Hall interior: biology lab with students at microscopes	BC1987012	
+446379	Edmond's Hall interior: dedication	BC1987012	
+446383	Donaldson House exterior	BC1987012	
+446387	Devlin Hall interior: third floor hall with animals on display from the Biology Department	BC1987012	
+446389	Devlin Hall exterior: aerial view	BC1987012	
+446392	Devlin Hall interior: Sister Thomas More Kiely, class of 1965, in chemistry lab	BC1987012	
+446405	Edmond's Hall exterior under construction	BC1987012	
+446407	Cushing Hall interior: dedication with Charles F. Donovan, Eric F. MacKenzie, Richard G. Shea, Francis B. McManus, and Felix Talbot	BC1987012	
+446415	Cushing Hall interior: dedication with Michael P. Walsh and Richard Cushing holding teacups	BC1987012	
+446421	Devlin Hall interior: lab with James Ring and students	BC1987012	
+446427	Devlin Hall exterior from quad, by Clifton Church	BC1987012	
+446428	Cushing Hall interior: dedication and blessing with William G. Guindon, Michael P. Walsh, Richard Cushing, and Daniel J. Saunders	BC1987012	
+446431	Devlin Hall exterior from dirt road, by Clifton Church	BC1987012	
+446438	Devlin Hall exterior: just after construction, by Clifton Church	BC1987012	
+446447	Devlin Hall interior: display cases with animals from Biology Department	BC1987012	
+446453	Devlin Hall exterior: in winter, by Clifton Church	BC1987012	
+446456	Alumni Stadium: dedication with Boston College band	BC1987012	
+446459	Devlin Hall exterior under construction from across the reservoir, by Clifton Church	BC1987012	
+446464	Devlin Hall exterior: side view with students on grass	BC1987012	
+446481	Flynn Student Recreation Complex exterior: dedication with Daniel F. Tully, Dan Cotter, Edward King, William J. Flynn, and J. Donald Monan	BC1987012	
+446487	Devlin Hall exterior under construction with horses and wagons by Clifton Church	BC1987012	
+446495	Edmond's Hall exterior from Saint Thomas More Road	BC1987012	
+446505	Duchesne Dormitories exteriors from east and west	BC1987012	
+446517	Gasson Hall exterior from snowy road	BC1987012	
+446521	Flynn Student Recreation Complex interior: swimming pool with swimmers	BC1987012	
+446522	Gasson Hall exterior: front from field with power lines	BC1987012	
+446531	Gasson Hall exterior: front from Commonwealth Avenue during winter with red barn from original property on left	BC1987012	
+446537	Gasson Hall exterior: front during construction on campus	BC1987012	
+446543	Fulton Hall exterior through trees before Lyons Hall was built	BC1987012	
+446545	Gasson Hall exterior: front from left with gates from construction	BC1987012	
+446552	Gasson Hall exterior: front from right in snow	BC1987012	
+446561	Gasson Hall exterior: front from Linden Lane with man and child walking in street	BC1987012	
+446567	Gasson Hall exterior: front from field	BC1987012	
+446571	Alumni Stadium and Silvio O. Conte Forum aerial view	BC1987012	
+446577	Fenwick Hall exterior: groundbreaking with Richard Cushing and Michael P. Walsh	BC1987012	
+446583	Fulton Hall exterior: Jesuit faculty member and student in front	BC1987012	
+446586	Flynn Student Recreation Complex interior: students fencing	BC1987012	
+446590	Fulton Hall exterior with car out front	BC1987012	
+446597	Fitzpatrick Hall exterior under construction	BC1987012	
+446605	Alumni Stadium: dedication aerial view	BC1987012	
+446607	Flynn Student Recreation Complex exterior: dedication with William J. Flynn and Edward King	BC1987012	
+446611	Fulton Hall exterior: aerial view	BC1987012	
+446625	Fulton Hall exterior: students on benches	BC1987012	
+446629	Gasson Hall exterior: front, student rally from Bapst Library lawn	BC1987012	
+446637	Gasson Hall exterior: front from side of Linden Lane lined with American flags and a crowd on the lawn	BC1987012	
+446647	Flynn Student Recreation Complex exterior from rooftop	BC1987012	
+446648	Alumni Stadium and track under construction	BC1987012	
+446667	Gasson Hall exterior: groundbreaking, Thomas Ignatius Gasson breaking first sod looking at camera	BC1987012	
+446669	Gasson Hall exterior: bell tower from Commonwealth Avenue looking down Linden Lane	BC1987012	
+446678	Gasson Hall exterior: rededication with J. Donald Monan, Charles Donovan, and Francis B. Campanella	BC1987012	
+446685	Gasson Hall exterior: groundbreaking, Thomas Ignatius Gasson breaking first sod	BC1987012	
+446691	Gasson Hall exterior: groundbreaking, unidentified man with shovel in crowd	BC1987012	
+446697	Gasson Hall exterior: back from south	BC1987012	
+446703	Gasson Hall exterior: bell tower from hill with female students walking	BC1987012	
+446707	Bapst Library exterior: Ford Tower from Commonwealth Avenue with Boston College sign, by Clifton Church	BC1987012	
+446711	Bapst Library exterior: main entrance under construction of first floor, by Clifton Church	BC1987012	
+446713	Gasson Hall exterior: front close up by Clifton Church	BC1987012	
+446719	Gasson Hall exterior: bell tower through trees from dirt road with horse and buggy	BC1987012	
+446725	Bapst Library exterior: Ford Tower from Linden Lane, by Clifton Church	BC1987012	
+446731	Bapst Library exterior: Ford Tower from paved Linden Lane, by Clifton Church	BC1987012	
+446733	Bapst Library exterior: main entrance from left side with view of Commonwealth Avenue and St. Mary's Hall, by Clifton Church	BC1987012	
+446737	Gasson Hall exterior: front from lawn, by Clifton Church	BC1987012	
+446746	Gasson Hall exterior: rededication with Francis B. McManus, Charles Finn, class of 1899, and Paul A. FitzGerald	BC1987012	
+446747	Gasson Hall exterior: bell tower with flag during strike	BC1987012	
+446761	Gasson Hall exterior: bell tower and front from Linden Lane by Clifton Church	BC1987012	
+446763	Gasson Hall exterior: Devlin Hall in background, by Clifton Church	BC1987012	
+446766	Gasson Hall exterior: Devlin Hall steps in foreground, by Clifton Church	BC1987012	
+446773	Gasson Hall exterior: front entrance in winter by Clifton Church	BC1987012	
+446780	Gasson Hall exterior: front from field, by Clifton Church	BC1987012	
+446788	Bapst Library exterior: Ford Tower and dirt roads by Clifton Church	BC1987012	
+446789	Gasson Hall exterior: front in winter with side of Saint Mary's Hall by Clifton Church	BC1987012	
+446797	Gasson Hall exterior: entrance steps in snow, by Clifton Church	BC1987012	
+446809	Gasson Hall interior: Irish Room as a classroom with students	BC1987012	
+446815	Gasson Hall interior: rotunda ceiling	BC1987012	
+446821	Gasson Hall interior: rotunda	BC1987012	
+446824	Gasson Hall interior: classroom after renovation	BC1987012	
+446828	Gasson Hall interior: classroom during renovation emptied with man in hardhat	BC1987012	
+446833	Gasson Hall exterior: entrance way and ivy with view of Bapst Library Ford Tower in background	BC1987012	
+446837	Gasson Hall interior: Stylus office	BC1987012	
+446841	Bapst Library exterior: Ford Tower entrance with dirt lawn, by Clifton Church	BC1987012	
+446847	Gasson Hall interior: statue	BC1987012	
+446851	Gasson Hall exterior during groundbreaking for Saint Mary's Hall	BC1987012	
+446857	Gasson Hall interior: tower machinery and operator	BC1987012	
+446861	Gasson Hall interior: tower bells from above	BC1987012	
+446865	Gasson Hall interior: data processing center with John F. FitzGerald and Mary H. Norton	BC1987012	
+446871	Gasson Hall interior: tower, two bells up close	BC1987012	
+446876	Bapst Library exterior: main entrance in winter, with Gasson Hall in foreground, by Clifton Church	BC1987012	
+446879	Bapst Library exterior: Ford Tower from street in winter, by Clifton Church	BC1987012	
+446885	Bapst Library exterior: main entrance in winter with cars, by Clifton Church	BC1987012	
+446886	Gasson Hall interior through open door looking down Linden Lane	BC1987012	
+446891	Bapst Library exterior: main entrance, side view in winter, by Clifton Church	BC1987012	
+446895	Gasson Hall interior: tower chime mechanism	BC1987012	
+446907	Bapst Library exterior: side view in winter with Saint Mary's Hall, by Clifton Church	BC1987012	
+446919	Gasson Hall interior: construction workers during renovation	BC1987012	
+446927	Gasson Hall interior: classroom during renovation	BC1987012	
+446932	Gasson Hall interior: data processing center	BC1987012	
+446947	Gasson Hall interior: tower, four bells named Ignatius, Xavier, Berchmans, and Gonzaga	BC1987012	
+446957	Greycliff Hall exterior	BC1987012	
+446963	Bapst Library exterior: dedication with Jesuits	BC1987012	
+446969	Higgins Hall exterior: Higgins staircase with students	BC1987012	
+446975	Kenny-Cottle Library exterior	BC1987012	
+446979	Hovey House exterior with ivy	BC1987012	
+446985	Gonzaga Hall exterior during construction	BC1987012	
+446991	Lyons Hall exterior: arch during construction with Gasson tower in background	BC1987012	
+446992	Gasson Hall interior: tower wall with signatures of students and class years ranging from 1920s-1940s	BC1987012	
+447003	Bapst Library exterior: dedication with James H. Dolan, Jones I. Corrigan, and Alvan T. Fuller	BC1987012	
+447005	Gonzaga Hall exterior: cross and Boston College initials	BC1987012	
+447015	Gonzaga Hall exterior from parking lot	BC1987012	
+447021	Gonzaga Hall exterior from rooftop	BC1987012	
+447024	Higgins Hall interior: dedication with Stephen P. Mugar, Michael P. Walsh, John P. Higgins, Mrs. John P. Higgins, and the Higgins' daughters	BC1987012	
+447026	Higgins Hall exterior: groundbreaking with Michael P. Walsh, Stephen P. Mugar, and John P. Higgins	BC1987012	
+447030	Law Library exterior: groundbreaking with J. Donald Monan, Aviam Soifer, and John J. Curtin, Jr.	BC1987012	
+447041	Higgins Hall interior: dedication with James van Allen	BC1987012	
+447045	Higgins Hall exterior: dedication with Michael P. Walsh and Stephen P. Mugar	BC1987012	
+447047	Gonzaga Hall exterior during construction of Fitzpatrick and Cheverus Halls	BC1987012	
+447060	Higgins Hall interior: dedication lunch	BC1987012	
+447063	Immaculate Conception Church exterior with fence	BC1987012	
+447075	Lawrence house and farm exterior	BC1987012	
+447087	Bapst Library exterior: dedication with Alvan T. Fuller, James H. Dolan, Michael J. Byrne, Charles Donagh Maginnis, Dennis Dooley, William M. Stinson, Timothy Phelan, Charles A. Birmingham, and Patrick McHugh	BC1987012	
+447088	Hillside Dormitories exterior: groundbreaking	BC1987012	
+447105	Hillside Dormitories exterior	BC1987012	
+447117	Hardey House exterior	BC1987012	
+447125	Philomatheia Hall exterior from Commonwealth Avenue	BC1987012	
+447131	Philomatheia Hall exterior: front porch and Philomatheia Club sign	BC1987012	
+447137	Roberts Center exterior: groundbreaking with Joseph R. N. Maxwell and Richard Cushing getting into Volkswagen Beetle	BC1987012	
+447147	Roberts Center exterior: groundbreaking with Joseph R. N. Maxwell, John J. Griffin, and Richard Cushing	BC1987012	
+447153	Roberts Center exterior: groundbreaking with Joseph R. N. Maxwell, Richard Cushing, and Joseph R. Walsh	BC1987012	
+447159	Roberts Center exterior: ground clearing, Joseph R. N. Maxwell assists in cutting down tree while John King, Wally Boudreau, Edward J. Whelan, and William J. Flynn look on	BC1987012	
+447165	Robsham Theatre exterior: dedication, front entrance with sculpture on left	BC1987012	
+447179	Robsham Theatre exterior: dedication, Joseph M. Larkin placing documents in time capsule for cornerstone while Mary B. Muse looks on	BC1987012	
+447185	Robsham Theatre exterior: groundbreaking, three unidentified attendees	BC1987012	
+447191	Robsham Theatre exterior: groundbreaking, unidentified woman speaking at podium	BC1987012	
+447197	Roncalli Hall exterior: dedication with Francis B. McManus, Eric F. MacKenzie, and Michael P. Walsh on the front steps	BC1987012	
+447203	Saint Ignatius Church interior: view of altar from end of pews	BC1987012	
+447207	Robsham Theatre interior: grand opening	BC1987012	
+447333	Saint Ignatius Church exterior: entrance from Saint Thomas More Road, postcard	BC1987012	
+450191	Class of poetry	BC1988027	
+450203	Class of second academic	BC1988027	
+450213	Honorary degree: Mellyn, Mary	BC1988027	
+450217	Boston College graduate and his girl clowning on the banks of the Reservoir	BC1988027	
+450223	Stage and graduates on commencement day	BC1988027	
+450229	Graduating class portrait	BC1988027	
+450233	O'Connell, William Henry	BC1988027	
+450237	Roberts, Mary Werner	BC1988027	
+450255	Overhead view	BC1988027	
+450260	O'Connell, William Henry	BC1988027	
+450272	O'Connell, William Henry	BC1988027	
+450285	Roberts, Mary Werner, James H. Dolan, William Henry O'Connell, and Bertrand C. Doland	BC1988027	
+450337	Cushing, Richard	BC1988027	
+450375	Honorary degree: LaFarge, John	BC1988027	
+450381	People watching ceremony	BC1988027	
+450382	People dancing	BC1988027	
+450389	Unidentified graduates	BC1988027	
+450393	Taping of ceremony	BC1988027	
+450397	Honorary degree: Kennedy, Robert F.	BC1988027	
+450401	Audience	BC1988027	
+450405	Cushing, Richard	BC1988027	
+450409	Female recipient of degree	BC1988027	
+450413	Honorary degree: White, Helen	BC1988027	
+450423	Honorary degree: Meany, George	BC1988027	
+450425	Honorary degree: Lodge, Henry Cabot	BC1988027	
+450439	Mass	BC1988027	
+450440	Honorary degree: Romulo, Carlos	BC1988027	
+450441	Honorary degree: Henderson, Ernest	BC1988027	
+450473	Dignitaries and degree recipients	BC1988027	
+450483	Procession	BC1988027	
+450569	School of Nursing graduates	BC1988027	
+450570	Honorary degree: Lally, Francis J.	BC1988027	
+450577	Overhead view	BC1988027	
+450580	Walsh, Michael, with graduates	BC1988027	
+450584	Mass	BC1988027	
+450589	Graduates putting on hoods	BC1988027	
+450593	Honorary degree: group photo	BC1988027	
+450597	Honorary graduates and dignitaries	BC1988027	
+450601	Honorary degree procession	BC1988027	
+450605	Honorary degree: Jackson, Barbara Ward, Lady	BC1988027	
+450609	Honorary degree group: Bunche, Ralph, Michael Walsh, and Alec Guinness	BC1988027	
+450615	Graduate: Andrea, Alfred	BC1988027	
+450621	Commencement ball	BC1988027	
+450627	Graduate: Michael, William G.	BC1988027	
+450633	Honorary degree recipients and dignitaries in procession	BC1988027	
+450639	Procession	BC1988027	
+450647	Honorary degree: Catton, Bruce	BC1988027	
+450655	Honorary degree: Celebrezze, Anthony	BC1988027	
+450665	Honorary degree: McCloy, John J.	BC1988027	
+450721	Mass	BC1988027	
+450722	Walsh, Michael P. with unidentified group	BC1988027	
+450729	Honorary degree: unidentified recipient	BC1988027	
+450733	Overhead view	BC1988027	
+450737	Cushing, Richard and Michael Walsh	BC1988027	
+450740	Drinan, Robert with unidentified priest	BC1988027	
+450745	Students in military uniform	BC1988027	
+450749	Procession	BC1988027	
+450753	Honorary degree: Sweeney, Joseph L.	BC1988027	
+450761	Unidentified graduate	BC1988027	
+450764	Honorary degree: Sert, José Louis	BC1988027	
+450768	Honorary degree recipients in procession	BC1988027	
+450781	Cushing, Richard and Michael Walsh with honorary degree recipients	BC1988027	
+450786	Honorary degree: Reston, James B.	BC1988027	
+450795	School of Nursing pinning ceremony	BC1988027	
+450797	Honorary degree: Ryan, J. Joseph (John Joseph)	BC1988027	
+450804	Honorary degree: Webb, James E.	BC1988027	
+450811	Honorary degree: Weaver, Robert C.	BC1988027	
+450945	1877	BC1988027	
+450957	1899	BC1988027	
+450965	1900	BC1988027	
+450971	1905	BC1988027	
+450977	1910	BC1988027	
+450987	1913	BC1988027	
+450993	1917	BC1988027	
+450999	1919	BC1988027	
+451013	1922	BC1988027	
+451019	1928	BC1988027	
+451035	1934	BC1988027	
+451041	1940	BC1988027	
+451053	1952	BC1988027	
+451067	1959	BC1988027	
+451075	1960	BC1988027	
+451129	1962	BC1988027	
+451145	1963	BC1988027	
+451189	1966	BC1988027	

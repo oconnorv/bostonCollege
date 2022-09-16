@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsRDFTypeLookup>
+    <locrdf mods="cartographic" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/car.html&gt;"/>
+    <locrdf mods="mixed material" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/mix.html&gt;"/>
+    <locrdf mods="moving image" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/mov.html&gt;"/>
+    <locrdf mods="notated music" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/not.html&gt;"/>
+    <locrdf mods="software, multimedia" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/mul.html&gt;"/>
+    <locrdf mods="sound recording" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/aud.html&gt;"/>
+    <locrdf mods="sound recording-musical" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/aud.html&gt;"/>
+    <locrdf mods="sound recording-nonmusical" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/aud.html&gt;"/>
+    <locrdf mods="still image" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/img.html&gt;"/>
+    <locrdf mods="text" rdf="&lt; &gt; dcterms:type &lt;http://id.loc.gov/vocabulary/resourceTypes/img.html&gt;"/>
+</modsRDFTypeLookup>

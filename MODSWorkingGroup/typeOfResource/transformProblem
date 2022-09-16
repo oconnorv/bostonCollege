@@ -1,0 +1,10 @@
+System ID: /home/oconnowy/Git/ModsWorkingGroup/islandoraResourceReview.xsl
+Scenario: islandora transform
+XML file: /home/oconnowy/Git/ModsWorkingGroup/all_islandora_citations.xml
+XSL file: /home/oconnowy/Git/ModsWorkingGroup/islandoraResourceReview.xsl
+Engine name: Saxon-HE 9.4.0.6
+Severity: fatal
+Description: XPTY0004: A sequence of more than one item is not allowed as the first argument of normalize-space() ("unemployment and reemployment...", "Michigan auto industry worker...")
+Start location: 70:0
+URL: http://www.w3.org/TR/xpath20/#ERRXPTY0004
+
